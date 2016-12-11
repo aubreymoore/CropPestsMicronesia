@@ -586,7 +586,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
 			<island>B=n</island>
@@ -1307,7 +1307,7 @@
 		</pest>
 		<pest>
 			<com>moth</com>
-			<sci>Agonoxena sp.</sci>
+			<sci>Agonoxena</sci>
 			<order>Lepidoptera</order>
 			<family>Agonoxenidae</family>
 			<island>M=G</island>
@@ -1315,7 +1315,7 @@
 		</pest>
 		<pest>
 			<com>moth</com>
-			<sci>Batrachedra sp.</sci>
+			<sci>Batrachedra</sci>
 			<order>Lepidoptera</order>
 			<family>Coleophoridae</family>
 			<island>M=G</island>
@@ -1885,7 +1885,7 @@
 		</pest>
 		<pest>
 			<com>spider mite</com>
-			<sci>Tetranychus sp.</sci>
+			<sci>Tetranychus</sci>
 			<order>Acari</order>
 			<family>Tetranychidae</family>
 			<island>M=C</island>
@@ -2206,7 +2206,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
 			<island>B=n</island>
@@ -3421,7 +3421,7 @@
 		</pest>
 		<pest>
 			<com>weevil</com>
-			<sci>Trigonops sp.</sci>
+			<sci>Trigonops</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -4212,7 +4212,7 @@
 		</pest>
 		<pest>
 			<com>hornworm</com>
-			<sci>Protoparce sp.</sci>
+			<sci>Protoparce</sci>
 			)
 			<order>Lepidoptera</order>
 			<family>Sphingidae</family>
@@ -4711,7 +4711,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -4760,7 +4760,7 @@
 		</crop>
 		<pest>
 			<com>weevil</com>
-			<sci>Trigonops sp.</sci>
+			<sci>Trigonops</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -4813,7 +4813,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -5048,7 +5048,7 @@
 		</pest>
 		<pest>
 			<com>weevil</com>
-			<sci>Daealus sp.</sci>
+			<sci>Daealus</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -5654,7 +5654,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -6171,7 +6171,7 @@
 		</pest>
 		<pest>
 			<com>white scale</com>
-			<sci>Pinnaspis sp.</sci>
+			<sci>Pinnaspis</sci>
 			)
 			<order>Homoptera</order>
 			<family>Diaspididae</family>
@@ -6526,7 +6526,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -7271,7 +7271,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -8903,7 +8903,7 @@
 		</pest>
 		<pest>
 			<com>darkling beetle</com>
-			<sci>Gonocephalum sp.</sci>
+			<sci>Gonocephalum</sci>
 			)
 			<order>Coleoptera</order>Tenebrionidae
 			<island>M=G</island>
@@ -9142,7 +9142,7 @@
 		</crop>
 		<pest>
 			<com>weevil</com>
-			<sci>Trigonops sp.</sci>
+			<sci>Trigonops</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -9173,7 +9173,7 @@
 		</pest>
 		<pest>
 			<com>weevil</com>
-			<sci>Daealus sp.</sci>
+			<sci>Daealus</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -9204,7 +9204,7 @@
 		</pest>
 		<pest>
 			<com>palau sweetpotato weevil</com>
-			<sci>Sphaeropterus sp.</sci>
+			<sci>Sphaeropterus</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -9340,7 +9340,7 @@
 		</pest>
 		<pest>
 			<com>scale</com>
-			<sci>Lepidosaphes sp.</sci>
+			<sci>Lepidosaphes</sci>
 			)
 			<order>Homoptera</order>
 			<family>Diaspididae</family>
@@ -9400,7 +9400,7 @@
 		</pest>
 		<pest>
 			<com>leaf blotch miner moth</com>
-			<sci>Acrocercops sp.</sci>
+			<sci>Acrocercops</sci>
 			)
 			<order>Lepidoptera</order>
 			<family>Gracillariidae</family>
@@ -9468,7 +9468,7 @@
 		</pest>
 		<pest>
 			<com>mole cricket</com>
-			<sci>Gryllotalpa sp.</sci>
+			<sci>Gryllotalpa</sci>
 			)
 			<order>Orthoptera</order>Gryllotalpidae
 			<island>M=G</island>
@@ -9482,7 +9482,7 @@
 		</crop>
 		<pest>
 			<com>spider mite</com>
-			<sci>Tetranychus sp.</sci>
+			<sci>Tetranychus</sci>
 			)
 			<order>Acari</order>
 			<family>Tetranychidae</family>
@@ -9491,7 +9491,7 @@
 		</pest>
 		<pest>
 			<com>spider mite</com>
-			<sci>Tetranychus sp.</sci>
+			<sci>Tetranychus</sci>
 			)
 			<order>Acari</order>
 			<family>Tetranychidae</family>
@@ -9500,7 +9500,7 @@
 		</pest>
 		<pest>
 			<com>weevil</com>
-			<sci>Trigonops sp.</sci>
+			<sci>Trigonops</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -10068,7 +10068,7 @@
 		</pest>
 		<pest>
 			<com>fruit piercing moth</com>
-			<sci>Eudocima Othreis) fullonia</sci>
+			<sci>Eudocima fullonia</sci>
 			Clerck))
 			<order>Lepidoptera</order>
 			<family>Noctuidae</family>
@@ -10126,7 +10126,7 @@
 		</pest>
 		<pest>
 			<com>weevil</com>
-			<sci>Trigonops sp.</sci>
+			<sci>Trigonops</sci>
 			)
 			<order>Coleoptera</order>
 			<family>Curculionidae</family>
@@ -10258,7 +10258,7 @@
 		</crop>
 		<pest>
 			<com>spider mite</com>
-			<sci>Tetranychus sp.</sci>
+			<sci>Tetranychus</sci>
 			)
 			<order>Acari</order>
 			<family>Tetranychidae</family>
@@ -10267,7 +10267,7 @@
 		</pest>
 		<pest>
 			<com>spider mite</com>
-			<sci>Tetranychus sp.</sci>
+			<sci>Tetranychus</sci>
 			)
 			<order>Acari</order>
 			<family>Tetranychidae</family>

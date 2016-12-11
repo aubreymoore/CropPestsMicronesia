@@ -1,1323 +1,1305 @@
-ID,island,new_island_record,scientificName
-d446875b852b4f68927b2daf5273b724,Yap State,,Aonidiella orientalis
-d446875b852b4f68927b2daf5273b724,Saipan,,Aonidiella orientalis
-d446875b852b4f68927b2daf5273b724,Tinian,,Aonidiella orientalis
-d446875b852b4f68927b2daf5273b724,Rota,,Aonidiella orientalis
-d446875b852b4f68927b2daf5273b724,Guam,,Aonidiella orientalis
-607bf546c99a45d1afd51bc6117496ee,Saipan,,Dysmicoccus neobrevipes
-607bf546c99a45d1afd51bc6117496ee,Tinian,,Dysmicoccus neobrevipes
-607bf546c99a45d1afd51bc6117496ee,Rota,,Dysmicoccus neobrevipes
-607bf546c99a45d1afd51bc6117496ee,Guam,,Dysmicoccus neobrevipes
-c6276877a98a4b99b59a37e0a9846eb5,Republic of Palau,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Yap State,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Chuuk State,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Pohnpei State,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Saipan,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Tinian,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Rota,,Trigonops
-c6276877a98a4b99b59a37e0a9846eb5,Guam,,Trigonops
-803dbc2c4c414b90bfd4fc0772298f7e,Saipan,,Phytorus lineolatus
-803dbc2c4c414b90bfd4fc0772298f7e,Tinian,,Phytorus lineolatus
-803dbc2c4c414b90bfd4fc0772298f7e,Rota,,Phytorus lineolatus
-803dbc2c4c414b90bfd4fc0772298f7e,Guam,,Phytorus lineolatus
-adde4dba6098404bbb85139bf6afba67,Republic of Palau,,Xyleborus fornicatus
-adde4dba6098404bbb85139bf6afba67,Yap State,,Xyleborus fornicatus
-adde4dba6098404bbb85139bf6afba67,Pohnpei State,,Xyleborus fornicatus
-a78493d31c8647948f502dac0c3f5313,Saipan,,Dacus cucurbitae
-a78493d31c8647948f502dac0c3f5313,Tinian,,Dacus cucurbitae
-a78493d31c8647948f502dac0c3f5313,Rota,,Dacus cucurbitae
-a78493d31c8647948f502dac0c3f5313,Guam,,Dacus cucurbitae
-45262e055b224612b7673a136060f752,Republic of Palau,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Yap State,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Chuuk State,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Pohnpei State,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Kosrae State,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Saipan,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Tinian,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Rota,,Hemiberlesia palmae
-45262e055b224612b7673a136060f752,Guam,,Hemiberlesia palmae
-d3d7f0ae5b5049f7beabd9815437eb35,Republic of Palau,,Ceroplastes floridensis
-d3d7f0ae5b5049f7beabd9815437eb35,Pohnpei State,,Ceroplastes floridensis
-d3d7f0ae5b5049f7beabd9815437eb35,Saipan,,Ceroplastes floridensis
-d3d7f0ae5b5049f7beabd9815437eb35,Tinian,,Ceroplastes floridensis
-d3d7f0ae5b5049f7beabd9815437eb35,Rota,,Ceroplastes floridensis
-d3d7f0ae5b5049f7beabd9815437eb35,Guam,,Ceroplastes floridensis
-77a020f8cfbf43e2ae067693aa422715,Republic of Palau,,Coccus longulus
-77a020f8cfbf43e2ae067693aa422715,Saipan,,Coccus longulus
-77a020f8cfbf43e2ae067693aa422715,Tinian,,Coccus longulus
-77a020f8cfbf43e2ae067693aa422715,Rota,,Coccus longulus
-77a020f8cfbf43e2ae067693aa422715,Guam,,Coccus longulus
-c66a2a579801401982b115fb896a8478,Republic of Palau,,Eucalymnatus tessellatus
-c66a2a579801401982b115fb896a8478,Yap State,new island record,Eucalymnatus tessellatus
-c66a2a579801401982b115fb896a8478,Chuuk State,,Eucalymnatus tessellatus
-c66a2a579801401982b115fb896a8478,Pohnpei State,,Eucalymnatus tessellatus
-c66a2a579801401982b115fb896a8478,Kosrae State,,Eucalymnatus tessellatus
-7d50da0d4a1c4adfb2168d6da2d2fac0,Republic of Palau,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Yap State,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Chuuk State,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Pohnpei State,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Kosrae State,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Saipan,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Tinian,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Rota,,Hemiberlesia lataniae
-7d50da0d4a1c4adfb2168d6da2d2fac0,Guam,,Hemiberlesia lataniae
-134d5f9120c346e1b933ca3cfb4559b8,Republic of Palau,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Yap State,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Chuuk State,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Pohnpei State,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Saipan,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Tinian,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Rota,,Aspidiotus destructor
-134d5f9120c346e1b933ca3cfb4559b8,Guam,,Aspidiotus destructor
-1664ed0986f64d1d83d70675bd28c94c,Chuuk State,,Pseudococcus longispinus
-fcdd1491c81c41d5b735cfee2e9be260,Republic of Palau,,Icerya seychellarum
-fcdd1491c81c41d5b735cfee2e9be260,Yap State,,Icerya seychellarum
-36e88fa76a9b43cf94ca62474d37a28b,Yap State,,Aspidiotus spinosus
-fc5c46db6960461f862d23fef4356449,Republic of Palau,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Yap State,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Chuuk State,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Pohnpei State,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Saipan,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Tinian,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Rota,,Icerya aegyptiaca
-fc5c46db6960461f862d23fef4356449,Guam,,Icerya aegyptiaca
-47adba70639049eca45dc4f4e20dd390,Republic of Palau,new island record,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Yap State,new island record,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Chuuk State,new island record,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Pohnpei State,,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Saipan,,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Tinian,,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Rota,,Selenothrips rubrocinctus
-47adba70639049eca45dc4f4e20dd390,Guam,,Selenothrips rubrocinctus
-2a8287357a414fbab0fb09e1d1106d93,Saipan,,Anomala sulcatula
-2a8287357a414fbab0fb09e1d1106d93,Tinian,,Anomala sulcatula
-2a8287357a414fbab0fb09e1d1106d93,Rota,,Anomala sulcatula
-2a8287357a414fbab0fb09e1d1106d93,Guam,,Anomala sulcatula
-ce4dc57ee327424f8bea7f78ca4eee91,Saipan,,Chlorophorus annularis
-ce4dc57ee327424f8bea7f78ca4eee91,Tinian,,Chlorophorus annularis
-ce4dc57ee327424f8bea7f78ca4eee91,Rota,,Chlorophorus annularis
-ce4dc57ee327424f8bea7f78ca4eee91,Guam,,Chlorophorus annularis
-d51c31170c1744d8ae1076116259443d,Guam,,Pseudoloxops bifasciatus
-d51c31170c1744d8ae1076116259443d,Rota,,Pseudoloxops bifasciatus
-3f82ac35bb0a46d7b30bc30fd35ea594,Republic of Palau,,Asterolecanium robustum
-3f82ac35bb0a46d7b30bc30fd35ea594,Pohnpei State,,Asterolecanium robustum
-3f82ac35bb0a46d7b30bc30fd35ea594,Guam,,Asterolecanium robustum
-6fe1c3ab9d604567a526a31e84e718ab,Republic of Palau,,Asterolecanium bambusae
-6fe1c3ab9d604567a526a31e84e718ab,Chuuk State,new island record,Asterolecanium bambusae
-6fe1c3ab9d604567a526a31e84e718ab,Saipan,,Asterolecanium bambusae
-6fe1c3ab9d604567a526a31e84e718ab,Tinian,,Asterolecanium bambusae
-6fe1c3ab9d604567a526a31e84e718ab,Rota,,Asterolecanium bambusae
-6fe1c3ab9d604567a526a31e84e718ab,Guam,,Asterolecanium bambusae
-65df07dd55544df3af193dd9ad124cd7,Pohnpei State,,Asterolecanium pseudomiliaris
-65df07dd55544df3af193dd9ad124cd7,Guam,,Asterolecanium pseudomiliaris
-84217eb3908543b0bbb893532cd7aaae,Pohnpei State,,Asterolecanium pseudolanceolatum
-3abb24bd209845e5a94fe218ea4cf132,Republic of Palau,,Asterolecanium coronatum
-e7073a93379f4b3694b79bc6c0515629,Republic of Palau,,Asterolecanium miliaris
-e7073a93379f4b3694b79bc6c0515629,Pohnpei State,,Asterolecanium miliaris
-e7073a93379f4b3694b79bc6c0515629,Saipan,,Asterolecanium miliaris
-e7073a93379f4b3694b79bc6c0515629,Tinian,,Asterolecanium miliaris
-e7073a93379f4b3694b79bc6c0515629,Rota,,Asterolecanium miliaris
-e7073a93379f4b3694b79bc6c0515629,Guam,,Asterolecanium miliaris
-16b001f3da434c02857db689a36408b5,Republic of Palau,,Adoretus sinicus
-16b001f3da434c02857db689a36408b5,Saipan,,Adoretus sinicus
-16b001f3da434c02857db689a36408b5,Tinian,,Adoretus sinicus
-16b001f3da434c02857db689a36408b5,Rota,,Adoretus sinicus
-16b001f3da434c02857db689a36408b5,Guam,,Adoretus sinicus
-5e7bfe97aa2e40898e75ce392e668f02,Pohnpei State,new island record,Cosmopolites sordidus
-5e7bfe97aa2e40898e75ce392e668f02,Saipan,,Cosmopolites sordidus
-5e7bfe97aa2e40898e75ce392e668f02,Tinian,,Cosmopolites sordidus
-5e7bfe97aa2e40898e75ce392e668f02,Rota,,Cosmopolites sordidus
-5e7bfe97aa2e40898e75ce392e668f02,Guam,,Cosmopolites sordidus
-8c51efbd8e554409bcc23649354f3c9a,Saipan,,Polytus mellerborgi
-8c51efbd8e554409bcc23649354f3c9a,Tinian,,Polytus mellerborgi
-8c51efbd8e554409bcc23649354f3c9a,Rota,,Polytus mellerborgi
-8c51efbd8e554409bcc23649354f3c9a,Guam,,Polytus mellerborgi
-a4e1891e72af420486fbb20f25b59d0a,Republic of Palau,,Leptoglossus australis
-a4e1891e72af420486fbb20f25b59d0a,Pohnpei State,,Leptoglossus australis
-a4e1891e72af420486fbb20f25b59d0a,Saipan,,Leptoglossus australis
-a4e1891e72af420486fbb20f25b59d0a,Tinian,,Leptoglossus australis
-a4e1891e72af420486fbb20f25b59d0a,Rota,,Leptoglossus australis
-a4e1891e72af420486fbb20f25b59d0a,Guam,,Leptoglossus australis
-ee80c084aa1b4f42815e8aef4f6ffb93,Republic of Palau,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Yap State,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Chuuk State,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Pohnpei State,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Kosrae State,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Saipan,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Tinian,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Rota,,Planococcus citri
-ee80c084aa1b4f42815e8aef4f6ffb93,Guam,,Planococcus citri
-c4343af3e0f248e8bced784a9cbe0690,Republic of Palau,,Aspidiotus excisus
-c4343af3e0f248e8bced784a9cbe0690,Saipan,,Aspidiotus excisus
-c4343af3e0f248e8bced784a9cbe0690,Tinian,,Aspidiotus excisus
-c4343af3e0f248e8bced784a9cbe0690,Rota,,Aspidiotus excisus
-77e89c5949db4a57b53aa5dcc639efc6,Republic of Palau,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Yap State,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Chuuk State,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Pohnpei State,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Saipan,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Tinian,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Rota,,Ferrisia virgata
-77e89c5949db4a57b53aa5dcc639efc6,Guam,,Ferrisia virgata
-36cbbd0ab2aa4b8c8c268286100e3d71,Republic of Palau,,Proutista moesta
-36cbbd0ab2aa4b8c8c268286100e3d71,Pohnpei State,new island record,Proutista moesta
-36cbbd0ab2aa4b8c8c268286100e3d71,Saipan,,Proutista moesta
-36cbbd0ab2aa4b8c8c268286100e3d71,Tinian,,Proutista moesta
-36cbbd0ab2aa4b8c8c268286100e3d71,Rota,,Proutista moesta
-36cbbd0ab2aa4b8c8c268286100e3d71,Guam,,Proutista moesta
-40a65efe5ca34194b63adb08bc8a5c96,Republic of Palau,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Yap State,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Chuuk State,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Pohnpei State,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Kosrae State,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Saipan,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Tinian,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Rota,,Lamenia caliginea
-40a65efe5ca34194b63adb08bc8a5c96,Guam,,Lamenia caliginea
-7577dce61e2e4eec87a686f137532421,Republic of Palau,,Ischnaspis longirostris
-7577dce61e2e4eec87a686f137532421,Guam,,Ischnaspis longirostris
-a7d8ae00af5a43ba99e142307d01f89b,Chuuk State,,Pseudococcus microadonidum
-a7d8ae00af5a43ba99e142307d01f89b,Pohnpei State,,Pseudococcus microadonidum
-2502afb2973e4be9a8d32547c0fc4fa9,Chuuk State,,Pseudococcus orchidicola
-2502afb2973e4be9a8d32547c0fc4fa9,Kosrae State,,Pseudococcus orchidicola
-2502afb2973e4be9a8d32547c0fc4fa9,Saipan,,Pseudococcus orchidicola
-2502afb2973e4be9a8d32547c0fc4fa9,Tinian,,Pseudococcus orchidicola
-2502afb2973e4be9a8d32547c0fc4fa9,Rota,,Pseudococcus orchidicola
-6c44ee13277d485a9a2c901810839be2,Republic of Palau,,Diaspis boisduvalii
-f573c04a51864051a9e697d8c97ac119,Republic of Palau,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Yap State,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Chuuk State,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Pohnpei State,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Saipan,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Tinian,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Rota,,Saissetia coffeae
-f573c04a51864051a9e697d8c97ac119,Guam,,Saissetia coffeae
-b586e60cf3e940f6bd3ad1dbb2a1b394,Republic of Palau,,Chrysomphalus dictyospermi
-b586e60cf3e940f6bd3ad1dbb2a1b394,Chuuk State,,Chrysomphalus dictyospermi
-b586e60cf3e940f6bd3ad1dbb2a1b394,Saipan,,Chrysomphalus dictyospermi
-b586e60cf3e940f6bd3ad1dbb2a1b394,Tinian,,Chrysomphalus dictyospermi
-b586e60cf3e940f6bd3ad1dbb2a1b394,Rota,,Chrysomphalus dictyospermi
-b586e60cf3e940f6bd3ad1dbb2a1b394,Guam,,Chrysomphalus dictyospermi
-ab15a31bf60b4180a974c4f982a5e92b,Republic of Palau,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Yap State,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Chuuk State,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Pohnpei State,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Kosrae State,new island record,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Saipan,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Tinian,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Rota,,Coccus viridis
-ab15a31bf60b4180a974c4f982a5e92b,Guam,,Coccus viridis
-4cabe552a4f440f980dab351f38661eb,Republic of Palau,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Yap State,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Chuuk State,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Saipan,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Tinian,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Rota,,Coccus hesperidum
-4cabe552a4f440f980dab351f38661eb,Guam,,Coccus hesperidum
-9f3ddd248090498fa8babef83f1cced4,Republic of Palau,,Steatococcus samaraius
-9f3ddd248090498fa8babef83f1cced4,Yap State,,Steatococcus samaraius
-9f3ddd248090498fa8babef83f1cced4,Guam,,Steatococcus samaraius
-1b1a56c513054d749a9d0e0002dc7ba1,Republic of Palau,,Aonidiella inornata
-1b1a56c513054d749a9d0e0002dc7ba1,Yap State,,Aonidiella inornata
-1b1a56c513054d749a9d0e0002dc7ba1,Chuuk State,,Aonidiella inornata
-1b1a56c513054d749a9d0e0002dc7ba1,Pohnpei State,,Aonidiella inornata
-1b1a56c513054d749a9d0e0002dc7ba1,Kosrae State,,Aonidiella inornata
-1b1a56c513054d749a9d0e0002dc7ba1,Guam,,Aonidiella inornata
-579abaa306c14ac2a3bed67a78187dbd,Republic of Palau,,Aonidiella aurantii
-579abaa306c14ac2a3bed67a78187dbd,Chuuk State,,Aonidiella aurantii
-579abaa306c14ac2a3bed67a78187dbd,Mariana Islands,,Aonidiella aurantii
-7b295935a65340dfa12f794943810cd5,Republic of Palau,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Yap State,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Chuuk State,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Pohnpei State,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Kosrae State,new island record,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Saipan,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Tinian,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Rota,,Pentalonia nigronervosa
-7b295935a65340dfa12f794943810cd5,Guam,,Pentalonia nigronervosa
-fccf85ee91a84e03aa00a6b1572cd27e,Republic of Palau,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Yap State,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Chuuk State,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Pohnpei State,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Kosrae State,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Saipan,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Tinian,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Rota,,Aphis gossypii
-fccf85ee91a84e03aa00a6b1572cd27e,Guam,,Aphis gossypii
-b8b8b53ecbcb4c33aa82888e609fee2b,Republic of Palau,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Yap State,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Chuuk State,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Pohnpei State,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Kosrae State,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Saipan,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Tinian,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Rota,,Spodoptera litura
-b8b8b53ecbcb4c33aa82888e609fee2b,Guam,,Spodoptera litura
-c79921e42d0f44f783e2c3297bc02093,Saipan,,Erionota thrax
-c79921e42d0f44f783e2c3297bc02093,Tinian,,Erionota thrax
-c79921e42d0f44f783e2c3297bc02093,Rota,,Erionota thrax
-c79921e42d0f44f783e2c3297bc02093,Guam,,Erionota thrax
-5610debeff51495fa8a3d3b6db342c71,Republic of Palau,new island record,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Pohnpei State,new island record,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Kosrae State,new island record,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Saipan,,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Tinian,,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Rota,,Eudocima Othreis) fullonia
-5610debeff51495fa8a3d3b6db342c71,Guam,,Eudocima Othreis) fullonia
-e12b6380ee6840b4bf0dbb1a56264d93,Saipan,,Valanga excavata
-e12b6380ee6840b4bf0dbb1a56264d93,Tinian,,Valanga excavata
-e12b6380ee6840b4bf0dbb1a56264d93,Rota,,Valanga excavata
-e12b6380ee6840b4bf0dbb1a56264d93,Guam,,Valanga excavata
-1a06f772cc8c4e0a89d90bb23dee8515,Republic of Palau,,Valanga nigricornis
-1a06f772cc8c4e0a89d90bb23dee8515,Yap State,,Valanga nigricornis
-1a06f772cc8c4e0a89d90bb23dee8515,Chuuk State,,Valanga nigricornis
-42443d6f0d17442fb901db2795a3b605,Saipan,,Polyphagotarsonemus latus
-42443d6f0d17442fb901db2795a3b605,Tinian,,Polyphagotarsonemus latus
-42443d6f0d17442fb901db2795a3b605,Rota,,Polyphagotarsonemus latus
-42443d6f0d17442fb901db2795a3b605,Guam,,Polyphagotarsonemus latus
-ac53c803dbce4486b7b385abc3f814e6,Saipan,,Tetranychus tumidus
-ac53c803dbce4486b7b385abc3f814e6,Tinian,,Tetranychus tumidus
-ac53c803dbce4486b7b385abc3f814e6,Rota,,Tetranychus tumidus
-ac53c803dbce4486b7b385abc3f814e6,Guam,,Tetranychus tumidus
-24d3c81818e848ba80248126ffe1347e,Guam,,Pagria signata
-457e1afc998c4b068932ce791308f6a5,Republic of Palau,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Yap State,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Chuuk State,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Saipan,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Tinian,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Rota,,Ophiomyia phaseoli
-457e1afc998c4b068932ce791308f6a5,Guam,,Ophiomyia phaseoli
-c5f718e1d3e449b7923b384c72edb08e,Republic of Palau,,Melanagromyza sojae
-a0ba9035b4f6414f871d91559f2e4b7b,Guam,,Liriomyza sativae
-eb260e3ce260455caa592638f6c94534,Yap State,new island record,Liriomyza trifolii
-eb260e3ce260455caa592638f6c94534,Pohnpei State,new island record,Liriomyza trifolii
-eb260e3ce260455caa592638f6c94534,Guam,,Liriomyza trifolii
-1b53c78ed99e4ce08b9e6f2c09430915,Chuuk State,,Nysius pulchellus
-1b53c78ed99e4ce08b9e6f2c09430915,Kosrae State,,Nysius pulchellus
-1b53c78ed99e4ce08b9e6f2c09430915,Saipan,,Nysius pulchellus
-1b53c78ed99e4ce08b9e6f2c09430915,Tinian,,Nysius pulchellus
-1b53c78ed99e4ce08b9e6f2c09430915,Rota,,Nysius pulchellus
-1b53c78ed99e4ce08b9e6f2c09430915,Guam,,Nysius pulchellus
-74d84c1a701d4525bf2f3031b3005d05,Chuuk State,,Lygus trukensis
-19b223f4d06640a0ae2175f997373035,Republic of Palau,,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Yap State,new island record,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Chuuk State,,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Pohnpei State,new island record,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Kosrae State,new island record,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Saipan,,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Tinian,,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Rota,,Brachyplatys insularis
-19b223f4d06640a0ae2175f997373035,Guam,,Brachyplatys insularis
-07ac3bd849db4bb8a3916b96f73470e7,Republic of Palau,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Yap State,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Chuuk State,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Pohnpei State,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Saipan,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Tinian,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Rota,,Nezara viridula
-07ac3bd849db4bb8a3916b96f73470e7,Guam,,Nezara viridula
-c3b7fc598a4e42249324b8c59e177a94,Republic of Palau,,Piezodorus hybneri
-c3b7fc598a4e42249324b8c59e177a94,Yap State,new island record,Piezodorus hybneri
-c3b7fc598a4e42249324b8c59e177a94,Saipan,,Piezodorus hybneri
-c3b7fc598a4e42249324b8c59e177a94,Tinian,,Piezodorus hybneri
-c3b7fc598a4e42249324b8c59e177a94,Rota,,Piezodorus hybneri
-c3b7fc598a4e42249324b8c59e177a94,Guam,,Piezodorus hybneri
-845643fd22a54248b26b49b18f5fb02e,Republic of Palau,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Yap State,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Chuuk State,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Pohnpei State,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Kosrae State,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Saipan,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Tinian,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Rota,,Halticus tibialis
-845643fd22a54248b26b49b18f5fb02e,Guam,,Halticus tibialis
-e4666b945c63426d82558c444af40b8f,Kosrae State,new island record,Coptosoma xanthogramma
-e4666b945c63426d82558c444af40b8f,Saipan,new island record,Coptosoma xanthogramma
-e4666b945c63426d82558c444af40b8f,Tinian,new island record,Coptosoma xanthogramma
-e4666b945c63426d82558c444af40b8f,Rota,new island record,Coptosoma xanthogramma
-e4666b945c63426d82558c444af40b8f,Guam,new island record,Coptosoma xanthogramma
-082f939ec6274d6881a55d6d88684946,Mariana Islands,,Empoasca pitiensis
-75ad61741de4494abfb05734f565dd0d,Saipan,,Leptocentrus taurus
-75ad61741de4494abfb05734f565dd0d,Tinian,,Leptocentrus taurus
-75ad61741de4494abfb05734f565dd0d,Rota,,Leptocentrus taurus
-75ad61741de4494abfb05734f565dd0d,Guam,,Leptocentrus taurus
-2b604afcbc3e47999f2447137e214054,Yap State,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Chuuk State,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Pohnpei State,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Kosrae State,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Saipan,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Tinian,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Rota,,Exitianus capicola
-2b604afcbc3e47999f2447137e214054,Guam,,Exitianus capicola
-99fdc4fbaaa14f69995c4cefc74c3479,Republic of Palau,,Bemisia tabaci
-99fdc4fbaaa14f69995c4cefc74c3479,Pohnpei State,,Bemisia tabaci
-99fdc4fbaaa14f69995c4cefc74c3479,Saipan,,Bemisia tabaci
-99fdc4fbaaa14f69995c4cefc74c3479,Tinian,,Bemisia tabaci
-99fdc4fbaaa14f69995c4cefc74c3479,Rota,,Bemisia tabaci
-99fdc4fbaaa14f69995c4cefc74c3479,Guam,,Bemisia tabaci
-2ece930a35374c229adede99fa6148de,Saipan,,Myzus persicae
-4f8840f58f524f6693508a4c8bc8a4d8,Yap State,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Chuuk State,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Pohnpei State,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Kosrae State,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Saipan,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Tinian,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Rota,,Aphis craccivora
-4f8840f58f524f6693508a4c8bc8a4d8,Guam,,Aphis craccivora
-d32d92d4cf5946b997c86c151551585b,Republic of Palau,new island record,Maruca testulalis
-d32d92d4cf5946b997c86c151551585b,Saipan,,Maruca testulalis
-d32d92d4cf5946b997c86c151551585b,Tinian,,Maruca testulalis
-d32d92d4cf5946b997c86c151551585b,Rota,,Maruca testulalis
-d32d92d4cf5946b997c86c151551585b,Guam,,Maruca testulalis
-ff8cfa0a0abc4cc7850f59b2a9ec8f66,Saipan,,Spodoptera mauritia
-ff8cfa0a0abc4cc7850f59b2a9ec8f66,Tinian,,Spodoptera mauritia
-ff8cfa0a0abc4cc7850f59b2a9ec8f66,Rota,,Spodoptera mauritia
-ff8cfa0a0abc4cc7850f59b2a9ec8f66,Guam,,Spodoptera mauritia
-a1c01816e1b04219a886967bd6f52103,Republic of Palau,,Cryptophlebia ombrodelta
-a1c01816e1b04219a886967bd6f52103,Saipan,,Cryptophlebia ombrodelta
-a1c01816e1b04219a886967bd6f52103,Tinian,,Cryptophlebia ombrodelta
-a1c01816e1b04219a886967bd6f52103,Rota,,Cryptophlebia ombrodelta
-a1c01816e1b04219a886967bd6f52103,Guam,,Cryptophlebia ombrodelta
-6e6528b6c8434c11a8c2adf05e9bd5d0,Saipan,,Etiella zinckenella
-6e6528b6c8434c11a8c2adf05e9bd5d0,Tinian,,Etiella zinckenella
-6e6528b6c8434c11a8c2adf05e9bd5d0,Rota,,Etiella zinckenella
-6e6528b6c8434c11a8c2adf05e9bd5d0,Guam,,Etiella zinckenella
-ba13cdc6dfd14fb7847ce2e3c2ea544d,Guam,,Lamprosema diemenalis
-3b57d1c2347a4d07a9864782dd33de77,Saipan,,Adoxophyes melia
-3b57d1c2347a4d07a9864782dd33de77,Tinian,,Adoxophyes melia
-3b57d1c2347a4d07a9864782dd33de77,Rota,,Adoxophyes melia
-3b57d1c2347a4d07a9864782dd33de77,Guam,,Adoxophyes melia
-18410c8acac649deac726a04e3343619,Republic of Palau,,Acrocercops
-18410c8acac649deac726a04e3343619,Chuuk State,,Acrocercops
-18410c8acac649deac726a04e3343619,Pohnpei State,,Acrocercops
-18410c8acac649deac726a04e3343619,Saipan,,Acrocercops
-18410c8acac649deac726a04e3343619,Tinian,,Acrocercops
-18410c8acac649deac726a04e3343619,Rota,,Acrocercops
-44bfc85fb64e40f59ffba72cf746b2ac,Guam,,Sphenarches caffer
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Republic of Palau,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Yap State,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Chuuk State,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Pohnpei State,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Saipan,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Tinian,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Rota,,Agrius convolvuli
-7a1a9ae4419b4ba38e6ea50ab49f43cc,Guam,,Agrius convolvuli
-6879fd12f4844ebf88926ab99a9a403d,Republic of Palau,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Yap State,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Chuuk State,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Saipan,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Tinian,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Rota,,Lampides boeticus
-6879fd12f4844ebf88926ab99a9a403d,Guam,,Lampides boeticus
-ef5828c90a534d6a851476fab554de0b,Saipan,,Heliothis armigera
-ef5828c90a534d6a851476fab554de0b,Tinian,,Heliothis armigera
-ef5828c90a534d6a851476fab554de0b,Rota,,Heliothis armigera
-ef5828c90a534d6a851476fab554de0b,Guam,,Heliothis armigera
-d21a423d38994eb09962f2023c4ea747,Republic of Palau,new island record,Chrysodeixis chalcites
-d21a423d38994eb09962f2023c4ea747,Saipan,,Chrysodeixis chalcites
-d21a423d38994eb09962f2023c4ea747,Tinian,,Chrysodeixis chalcites
-d21a423d38994eb09962f2023c4ea747,Rota,,Chrysodeixis chalcites
-d21a423d38994eb09962f2023c4ea747,Guam,,Chrysodeixis chalcites
-489b977e61c24caca3d2e6a1ab61cc0e,Pohnpei State,,Phaneroptera furcifera
-489b977e61c24caca3d2e6a1ab61cc0e,Saipan,,Phaneroptera furcifera
-489b977e61c24caca3d2e6a1ab61cc0e,Tinian,,Phaneroptera furcifera
-489b977e61c24caca3d2e6a1ab61cc0e,Rota,,Phaneroptera furcifera
-489b977e61c24caca3d2e6a1ab61cc0e,Guam,,Phaneroptera furcifera
-86c7519283014142b254ea828f1dea82,Yap State,new island record,Thrips palmi
-86c7519283014142b254ea828f1dea82,Guam,,Thrips palmi
-e618295d5a864c6f8b3ef6a206200ac3,Republic of Palau,,Thrips tabaci
-e618295d5a864c6f8b3ef6a206200ac3,Yap State,,Thrips tabaci
-e618295d5a864c6f8b3ef6a206200ac3,Saipan,,Thrips tabaci
-e618295d5a864c6f8b3ef6a206200ac3,Tinian,,Thrips tabaci
-e618295d5a864c6f8b3ef6a206200ac3,Rota,,Thrips tabaci
-e618295d5a864c6f8b3ef6a206200ac3,Guam,,Thrips tabaci
-7587814ea8164bca859c92367d53531b,Republic of Palau,,Antonina graminis
-7587814ea8164bca859c92367d53531b,Chuuk State,,Antonina graminis
-7587814ea8164bca859c92367d53531b,Saipan,,Antonina graminis
-7587814ea8164bca859c92367d53531b,Tinian,,Antonina graminis
-7587814ea8164bca859c92367d53531b,Rota,,Antonina graminis
-7587814ea8164bca859c92367d53531b,Guam,,Antonina graminis
-71fb00986a1a48a8a8e67c3c747ba373,Guam,,Marasmia venilialis
-7be7d7a07b334a8c9990c22e5b2edc1c,Republic of Palau,,Rhabdoscelus obscurus
-7be7d7a07b334a8c9990c22e5b2edc1c,Saipan,,Rhabdoscelus obscurus
-7be7d7a07b334a8c9990c22e5b2edc1c,Tinian,,Rhabdoscelus obscurus
-7be7d7a07b334a8c9990c22e5b2edc1c,Rota,,Rhabdoscelus obscurus
-7be7d7a07b334a8c9990c22e5b2edc1c,Guam,,Rhabdoscelus obscurus
-3d7c141e083b49c0a1183cc388cad90d,Republic of Palau,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Yap State,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Chuuk State,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Pohnpei State,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Kosrae State,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Saipan,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Tinian,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Rota,,Xyleborus perforans
-3d7c141e083b49c0a1183cc388cad90d,Guam,,Xyleborus perforans
-67297aab51c748dabf702e79b444a03a,Guam,,Protaetia orientalis
-19317630e5b8466cb274e501af69f117,Republic of Palau,,Diocalandra frumenti
-19317630e5b8466cb274e501af69f117,Chuuk State,,Diocalandra frumenti
-19317630e5b8466cb274e501af69f117,Guam,,Diocalandra frumenti
-1e6da2e728fc4f46ba1e7c694a6a3d90,Republic of Palau,,Oryctes rhinoceros
-bdad648bfeb541f7b24f5699ad6b93fa,Republic of Palau,,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Yap State,new island record,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Pohnpei State,new island record,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Saipan,,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Tinian,,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Rota,,Lepidosaphes laterochitinosa
-bdad648bfeb541f7b24f5699ad6b93fa,Guam,,Lepidosaphes laterochitinosa
-11ebccdf14314705a7a3dc826b125fe8,Republic of Palau,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Yap State,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Pohnpei State,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Saipan,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Tinian,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Rota,,Lepidosaphes similis
-11ebccdf14314705a7a3dc826b125fe8,Guam,,Lepidosaphes similis
-81571e4c973f4aa2a94959aa3cc95f4c,Yap State,,Cerataphis lataniae
-81571e4c973f4aa2a94959aa3cc95f4c,Pohnpei State,,Cerataphis lataniae
-81571e4c973f4aa2a94959aa3cc95f4c,Saipan,,Cerataphis lataniae
-81571e4c973f4aa2a94959aa3cc95f4c,Tinian,,Cerataphis lataniae
-81571e4c973f4aa2a94959aa3cc95f4c,Rota,,Cerataphis lataniae
-81571e4c973f4aa2a94959aa3cc95f4c,Guam,,Cerataphis lataniae
-ca22a6172c6542c0a83c2b49e0902447,Pohnpei State,,Pinnaspis buxi
-ca22a6172c6542c0a83c2b49e0902447,Guam,,Pinnaspis buxi
-8922fe472417484299ab6b2ca3e474f8,Republic of Palau,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Yap State,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Chuuk State,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Pohnpei State,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Saipan,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Tinian,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Rota,,Dysmicoccus brevipes
-8922fe472417484299ab6b2ca3e474f8,Guam,,Dysmicoccus brevipes
-4d4aa96369e9444d817b563952fe8335,Republic of Palau,,Palmicultor palmarum
-4d4aa96369e9444d817b563952fe8335,Yap State,,Palmicultor palmarum
-4d4aa96369e9444d817b563952fe8335,Chuuk State,,Palmicultor palmarum
-4d4aa96369e9444d817b563952fe8335,Pohnpei State,,Palmicultor palmarum
-4d4aa96369e9444d817b563952fe8335,Kosrae State,,Palmicultor palmarum
-53bf3af3abb0450fbc98bd70419492a6,Republic of Palau,,Parlatoria proteus
-53bf3af3abb0450fbc98bd70419492a6,Yap State,,Parlatoria proteus
-53bf3af3abb0450fbc98bd70419492a6,Chuuk State,,Parlatoria proteus
-53bf3af3abb0450fbc98bd70419492a6,Pohnpei State,,Parlatoria proteus
-53bf3af3abb0450fbc98bd70419492a6,Kosrae State,,Parlatoria proteus
-53bf3af3abb0450fbc98bd70419492a6,Guam,,Parlatoria proteus
-6f652f95727b44eeb524b2b995dd0c96,Republic of Palau,,Coccus mangiferae
-93762b09f25c408b810185491b794506,Republic of Palau,,Pinnaspis aspidistrae
-93762b09f25c408b810185491b794506,Pohnpei State,,Pinnaspis aspidistrae
-9acecb2850954b42ac3ef9111eb65c13,Republic of Palau,,Phenacaspis inday
-9acecb2850954b42ac3ef9111eb65c13,Yap State,,Phenacaspis inday
-9acecb2850954b42ac3ef9111eb65c13,Guam,,Phenacaspis inday
-ed32b0da6fc84465b04f7d789fcf863e,Guam,,Agonoxena sp.
-4926750359ec4f76836e1dd9c4a867fa,Guam,,Batrachedra sp.
-906b8fcf6d81449f98e285dbd13b2360,Guam,,Heliothrips haemorrhoidalis
-819f0e6b674f47ee97c9c3116aa095a3,Chuuk State,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Pohnpei State,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Kosrae State,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Saipan,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Tinian,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Rota,,Ceresium unicolor
-819f0e6b674f47ee97c9c3116aa095a3,Guam,,Ceresium unicolor
-c4988e30095943b48680d6d85b6206af,Republic of Palau,,Aclees porosus
-c4988e30095943b48680d6d85b6206af,Yap State,,Aclees porosus
-aef46f9edbb940669f457178926770aa,Republic of Palau,,Dacus umbrosus
-317fc977f8ce475dbd71cbd14a67669c,Republic of Palau,,Dacus frauenfeldi
-317fc977f8ce475dbd71cbd14a67669c,Yap State,,Dacus frauenfeldi
-317fc977f8ce475dbd71cbd14a67669c,Chuuk State,,Dacus frauenfeldi
-317fc977f8ce475dbd71cbd14a67669c,Pohnpei State,,Dacus frauenfeldi
-317fc977f8ce475dbd71cbd14a67669c,Kosrae State,,Dacus frauenfeldi
-6e8eeb0f6e22443ebcc5a6c0672bf93f,Republic of Palau,,Andaspis punicae
-6e8eeb0f6e22443ebcc5a6c0672bf93f,Guam,,Andaspis punicae
-d54fcbdcb74740adb5bdacac6a7710ea,Republic of Palau,,Coccus moestus
-d54fcbdcb74740adb5bdacac6a7710ea,Chuuk State,,Coccus moestus
-d54fcbdcb74740adb5bdacac6a7710ea,Saipan,,Coccus moestus
-d54fcbdcb74740adb5bdacac6a7710ea,Tinian,,Coccus moestus
-d54fcbdcb74740adb5bdacac6a7710ea,Rota,,Coccus moestus
-d54fcbdcb74740adb5bdacac6a7710ea,Guam,,Coccus moestus
-3c4b5cb100f24d84bcc66820c475548b,Republic of Palau,,Vinsonia stellifera
-3c4b5cb100f24d84bcc66820c475548b,Yap State,new island record,Vinsonia stellifera
-3c4b5cb100f24d84bcc66820c475548b,Pohnpei State,,Vinsonia stellifera
-3c4b5cb100f24d84bcc66820c475548b,Kosrae State,new island record,Vinsonia stellifera
-5bb3c5ac77cb4223bcfea99797a8668b,Pohnpei State,,Chrysomphalus aonidum
-5bc5382642f04b748394f1b2f5d3c606,Republic of Palau,,Pseudaulacaspis pentagona
-5bc5382642f04b748394f1b2f5d3c606,Chuuk State,,Pseudaulacaspis pentagona
-5bc5382642f04b748394f1b2f5d3c606,Saipan,,Pseudaulacaspis pentagona
-5bc5382642f04b748394f1b2f5d3c606,Tinian,,Pseudaulacaspis pentagona
-5bc5382642f04b748394f1b2f5d3c606,Rota,,Pseudaulacaspis pentagona
-5bc5382642f04b748394f1b2f5d3c606,Guam,,Pseudaulacaspis pentagona
-9d8c499c7db4424ba1742debeff27e66,Guam,,Planococcus lilacinus
-8ac60b8b1ddf486cae179cac3724048b,Kosrae State,,Pseudococcus marshallensis
-f417cf09fc074db8bfefba74806df972,Republic of Palau,,Xenaleyrodes artocarpi
-557ac3cd925b402fb40b83f226458c5a,Republic of Palau,,Asterolecanium pustulans
-557ac3cd925b402fb40b83f226458c5a,Chuuk State,,Asterolecanium pustulans
-557ac3cd925b402fb40b83f226458c5a,Guam,,Asterolecanium pustulans
-e8b95efe364f49e8be2af82a61bbab2f,Guam,,Icerya purchasi
-c7c47b62e4184696adbace03f7dd240d,Chuuk State,,Phaciocephalus onoi
-7f70935477d947a6b725e59d120a9a33,Chuuk State,,Pseudococcus trukensis
-7f70935477d947a6b725e59d120a9a33,Pohnpei State,,Pseudococcus trukensis
-307f9398076d4f3fa54378d409f03650,Republic of Palau,,Ceroplastes rubens
-307f9398076d4f3fa54378d409f03650,Yap State,new island record,Ceroplastes rubens
-307f9398076d4f3fa54378d409f03650,Saipan,,Ceroplastes rubens
-307f9398076d4f3fa54378d409f03650,Tinian,,Ceroplastes rubens
-307f9398076d4f3fa54378d409f03650,Rota,,Ceroplastes rubens
-307f9398076d4f3fa54378d409f03650,Guam,,Ceroplastes rubens
-1b8d00223e5a4f3ea7d0f6559a34e7c2,Saipan,,Liriomyza brassicae
-1b8d00223e5a4f3ea7d0f6559a34e7c2,Tinian,,Liriomyza brassicae
-1b8d00223e5a4f3ea7d0f6559a34e7c2,Rota,,Liriomyza brassicae
-1b8d00223e5a4f3ea7d0f6559a34e7c2,Guam,,Liriomyza brassicae
-70a2accc2a8040c3aa7869e39a93d00c,Saipan,,Lipaphis erysimi
-70a2accc2a8040c3aa7869e39a93d00c,Tinian,,Lipaphis erysimi
-70a2accc2a8040c3aa7869e39a93d00c,Rota,,Lipaphis erysimi
-70a2accc2a8040c3aa7869e39a93d00c,Guam,,Lipaphis erysimi
-9aa4e40537dc4f7ca261e4eca7b58ed3,Republic of Palau,,Heliothis zea
-9aa4e40537dc4f7ca261e4eca7b58ed3,Saipan,,Heliothis zea
-9aa4e40537dc4f7ca261e4eca7b58ed3,Tinian,,Heliothis zea
-9aa4e40537dc4f7ca261e4eca7b58ed3,Rota,,Heliothis zea
-9aa4e40537dc4f7ca261e4eca7b58ed3,Guam,,Heliothis zea
-83322d65484a488eba590462b1fc8186,Republic of Palau,,Hellula undalis
-83322d65484a488eba590462b1fc8186,Guam,,Hellula undalis
-8bd27816b9574fa0a2c74cbdce039063,Republic of Palau,new island record,Plutella xylostella
-8bd27816b9574fa0a2c74cbdce039063,Saipan,,Plutella xylostella
-8bd27816b9574fa0a2c74cbdce039063,Tinian,,Plutella xylostella
-8bd27816b9574fa0a2c74cbdce039063,Rota,,Plutella xylostella
-8bd27816b9574fa0a2c74cbdce039063,Guam,,Plutella xylostella
-e244f2a9eab94b98a21e586a44e03067,Republic of Palau,,Crocidolomia binotalis
-e244f2a9eab94b98a21e586a44e03067,Saipan,,Crocidolomia binotalis
-e244f2a9eab94b98a21e586a44e03067,Tinian,,Crocidolomia binotalis
-e244f2a9eab94b98a21e586a44e03067,Rota,,Crocidolomia binotalis
-e244f2a9eab94b98a21e586a44e03067,Guam,,Crocidolomia binotalis
-73d82570bb124deba920d720f3dc21dc,Saipan,,Tetranychus
-73d82570bb124deba920d720f3dc21dc,Tinian,,Tetranychus
-73d82570bb124deba920d720f3dc21dc,Rota,,Tetranychus
-73d82570bb124deba920d720f3dc21dc,Guam,,Tetranychus
-3e3e9e31c40f41039f6c3bd6a7e703bf,Saipan,,Tetranychus sp.
-3e3e9e31c40f41039f6c3bd6a7e703bf,Tinian,,Tetranychus sp.
-3e3e9e31c40f41039f6c3bd6a7e703bf,Rota,,Tetranychus sp.
-d6c7dbd399f548e4a33b0f0d8f1ba917,Guam,,Tetranychus truncatus
-f63e9661682f46bc998ed8d1d4abfa1f,Republic of Palau,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Yap State,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Chuuk State,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Kosrae State,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Saipan,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Tinian,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Rota,,Parasaissetia nigra
-f63e9661682f46bc998ed8d1d4abfa1f,Guam,,Parasaissetia nigra
-10de73a80c774431a499f51919fe695e,Chuuk State,new island record,Phenacoccus madeirensis
-10de73a80c774431a499f51919fe695e,Pohnpei State,new island record,Phenacoccus madeirensis
-10de73a80c774431a499f51919fe695e,Guam,,Phenacoccus madeirensis
-e07e90a7b9a14c84a4a273b3cbb7023a,Republic of Palau,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Chuuk State,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Pohnpei State,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Kosrae State,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Saipan,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Tinian,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Rota,,Xyleborus similis
-e07e90a7b9a14c84a4a273b3cbb7023a,Guam,,Xyleborus similis
-809af4caf4cc4babac9c3d127d397f04,Republic of Palau,,Pelargoderus luteosparsus
-80f2b376244b4c698190cb78f4a65207,Republic of Palau,,Coenobius glochidionis
-f3657aff6f0f4c798d6c3043413af679,Chuuk State,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Pohnpei State,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Kosrae State,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Saipan,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Tinian,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Rota,,Xyleborus ferrugineus
-f3657aff6f0f4c798d6c3043413af679,Guam,,Xyleborus ferrugineus
-da9ad2239cbe45f8ad40e399611efabe,Guam,,Eusyphax bivittatus
-9fed841336bc4554a5c2fcc66fc4580f,Chuuk State,,Toxoptera aurantii
-9fed841336bc4554a5c2fcc66fc4580f,Saipan,,Toxoptera aurantii
-9fed841336bc4554a5c2fcc66fc4580f,Tinian,,Toxoptera aurantii
-9fed841336bc4554a5c2fcc66fc4580f,Rota,,Toxoptera aurantii
-9fed841336bc4554a5c2fcc66fc4580f,Guam,,Toxoptera aurantii
-fe6d883825be4c2cbd1f28e6ff991bcf,Saipan,,Tiracola plagiata
-fe6d883825be4c2cbd1f28e6ff991bcf,Tinian,,Tiracola plagiata
-fe6d883825be4c2cbd1f28e6ff991bcf,Rota,,Tiracola plagiata
-fe6d883825be4c2cbd1f28e6ff991bcf,Guam,,Tiracola plagiata
-2375c9aa430047219eb4c2f62326c02e,Pohnpei State,,Brontispa chalybeipennis
-2375c9aa430047219eb4c2f62326c02e,Kosrae State,,Brontispa chalybeipennis
-23aa8f2b91d14ff0b2ce0fe537139279,Yap State,,Brontispa mariana
-23aa8f2b91d14ff0b2ce0fe537139279,Chuuk State,,Brontispa mariana
-23aa8f2b91d14ff0b2ce0fe537139279,Saipan,,Brontispa mariana
-23aa8f2b91d14ff0b2ce0fe537139279,Tinian,,Brontispa mariana
-23aa8f2b91d14ff0b2ce0fe537139279,Rota,,Brontispa mariana
-cb24184df548476b8e178a13d30d1287,Republic of Palau,,Brontispa palauensis
-cb24184df548476b8e178a13d30d1287,Guam,,Brontispa palauensis
-85f6174878624a8c8d6de93551691c75,Chuuk State,,Caroliniella aenescens
-85f6174878624a8c8d6de93551691c75,Kosrae State,,Caroliniella aenescens
-9eebee3a6293487d87b88192c0dfd2dd,Republic of Palau,,Trochorhopalus strangulatus
-89e53194bf5a4419b35b1d472b193bf5,Republic of Palau,,Rhabdoscelus asperipennis
-72831e000351490e8362f57f2ac99050,Republic of Palau,,Astegopteryx rhapidis
-1f65e433489f47f3a7dcb38a57e13c59,Republic of Palau,,Aleurocanthus palauensis
-f57d3408097a46209f4ad3b03e51c751,Republic of Palau,new island record,Aleurodicus dispersus
-f57d3408097a46209f4ad3b03e51c751,Pohnpei State,new island record,Aleurodicus dispersus
-f57d3408097a46209f4ad3b03e51c751,Saipan,,Aleurodicus dispersus
-f57d3408097a46209f4ad3b03e51c751,Tinian,,Aleurodicus dispersus
-f57d3408097a46209f4ad3b03e51c751,Rota,,Aleurodicus dispersus
-f57d3408097a46209f4ad3b03e51c751,Guam,,Aleurodicus dispersus
-a050b1d76efd46ba8bb085d7621dbea1,Republic of Palau,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Yap State,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Chuuk State,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Saipan,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Tinian,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Rota,,Aonidiella comperei
-a050b1d76efd46ba8bb085d7621dbea1,Guam,,Aonidiella comperei
-e5efd40056e44786853ca5f9585f4da3,Republic of Palau,,Aonidiella eremocitri
-32237b3b26ff47978bd97040853f9e11,Chuuk State,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Pohnpei State,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Kosrae State,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Saipan,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Tinian,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Rota,,Lepidosaphes esakii
-32237b3b26ff47978bd97040853f9e11,Guam,,Lepidosaphes esakii
-ca31a0f6f5754845acdca5857c88d874,Yap State,,Lamenia numitor
-ca31a0f6f5754845acdca5857c88d874,Saipan,,Lamenia numitor
-ca31a0f6f5754845acdca5857c88d874,Tinian,,Lamenia numitor
-ca31a0f6f5754845acdca5857c88d874,Rota,,Lamenia numitor
-ca31a0f6f5754845acdca5857c88d874,Guam,,Lamenia numitor
-2a7bac22c3ab4ce6a55a62f2bed49144,Pohnpei State,,Lallemandana phalerata
-2a7bac22c3ab4ce6a55a62f2bed49144,Saipan,,Lallemandana phalerata
-2a7bac22c3ab4ce6a55a62f2bed49144,Tinian,,Lallemandana phalerata
-2a7bac22c3ab4ce6a55a62f2bed49144,Rota,,Lallemandana phalerata
-2a7bac22c3ab4ce6a55a62f2bed49144,Guam,,Lallemandana phalerata
-5210db48424f4a03b4a1311dfb56ce04,Republic of Palau,,Leptynoptera sulfurea
-5210db48424f4a03b4a1311dfb56ce04,Yap State,,Leptynoptera sulfurea
-5210db48424f4a03b4a1311dfb56ce04,Pohnpei State,,Leptynoptera sulfurea
-5210db48424f4a03b4a1311dfb56ce04,Kosrae State,,Leptynoptera sulfurea
-5210db48424f4a03b4a1311dfb56ce04,Guam,,Leptynoptera sulfurea
-f286a74497a34a69b9541c7db4195815,Guam,,Palmicultor guamensis
-003c73aeedc048e9b561a5cd64250b9e,Republic of Palau,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Yap State,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Chuuk State,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Pohnpei State,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Kosrae State,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Saipan,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Tinian,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Rota,,Furcaspis oceanica
-003c73aeedc048e9b561a5cd64250b9e,Guam,,Furcaspis oceanica
-4fbebb3d2f0e444faed25fbf27b7d107,Kosrae State,,Flaccia dione
-4fbebb3d2f0e444faed25fbf27b7d107,Saipan,new island record,Flaccia dione
-4fbebb3d2f0e444faed25fbf27b7d107,Tinian,new island record,Flaccia dione
-4fbebb3d2f0e444faed25fbf27b7d107,Rota,new island record,Flaccia dione
-4fbebb3d2f0e444faed25fbf27b7d107,Guam,new island record,Flaccia dione
-6c11e15496f14242ac3c8bb2ad805ad1,Guam,,Exitianus plebeius
-268d8c7ca55c4553817245b5d836b471,Yap State,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Chuuk State,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Pohnpei State,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Kosrae State,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Saipan,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Tinian,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Rota,,Dysmicoccus saipanensis
-268d8c7ca55c4553817245b5d836b471,Guam,,Dysmicoccus saipanensis
-666420df8a9e471e8073486c2f130491,Republic of Palau,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Chuuk State,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Pohnpei State,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Kosrae State,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Saipan,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Tinian,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Rota,,Swezeyia zephyrus
-666420df8a9e471e8073486c2f130491,Guam,,Swezeyia zephyrus
-5840d297d76e4e1f8d2c5220891e8070,Guam,,Protalebrella braziliensis
-151e725ae3794d7091866c7c099a1149,Republic of Palau,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Yap State,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Chuuk State,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Pohnpei State,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Saipan,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Tinian,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Rota,,Pinnaspis strachani
-151e725ae3794d7091866c7c099a1149,Guam,,Pinnaspis strachani
-3cc43434c5fb40c8be042accd37758e3,Republic of Palau,,Neotermes kanehirae
-682b7907e677421985cd9657c16a9044,Chuuk State,new island record,Agonoxena pyrogramma
-682b7907e677421985cd9657c16a9044,Pohnpei State,new island record,Agonoxena pyrogramma
-682b7907e677421985cd9657c16a9044,Kosrae State,,Agonoxena pyrogramma
-682b7907e677421985cd9657c16a9044,Guam,,Agonoxena pyrogramma
-645c113310d841e5b334cba3811021fc,Republic of Palau,,Segestes unicolor
-31df1604bab6447b8c1227209e7f7d11,Saipan,,Acanthograeffea denticulata
-31df1604bab6447b8c1227209e7f7d11,Tinian,,Acanthograeffea denticulata
-31df1604bab6447b8c1227209e7f7d11,Rota,,Acanthograeffea denticulata
-31df1604bab6447b8c1227209e7f7d11,Guam,,Acanthograeffea denticulata
-7bb0d36c3b6d4169a944e383963d6081,Chuuk State,,Acanthograeffea modesta
-7bb0d36c3b6d4169a944e383963d6081,Pohnpei State,,Acanthograeffea modesta
-2be232c8057141be9355ed0c526352d2,Pohnpei State,,Hypothenemus hampei
-2be232c8057141be9355ed0c526352d2,Saipan,,Hypothenemus hampei
-3a211fad9bc44442a766969acf9b3bbd,Chuuk State,,Xyleborus morigerus
-3a211fad9bc44442a766969acf9b3bbd,Pohnpei State,,Xyleborus morigerus
-3a211fad9bc44442a766969acf9b3bbd,Saipan,,Xyleborus morigerus
-3a211fad9bc44442a766969acf9b3bbd,Tinian,,Xyleborus morigerus
-3a211fad9bc44442a766969acf9b3bbd,Rota,,Xyleborus morigerus
-3a211fad9bc44442a766969acf9b3bbd,Guam,,Xyleborus morigerus
-a6d98fd125854a24b2f7701e1e2bfebe,Republic of Palau,,Saissetia oleae
-a6d98fd125854a24b2f7701e1e2bfebe,Chuuk State,,Saissetia oleae
-a6d98fd125854a24b2f7701e1e2bfebe,Saipan,,Saissetia oleae
-a6d98fd125854a24b2f7701e1e2bfebe,Tinian,,Saissetia oleae
-a6d98fd125854a24b2f7701e1e2bfebe,Rota,,Saissetia oleae
-a6d98fd125854a24b2f7701e1e2bfebe,Guam,,Saissetia oleae
-c746c7cf5e5b458f8899aaacc2ef5e8d,Republic of Palau,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Chuuk State,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Pohnpei State,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Kosrae State,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Saipan,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Tinian,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Rota,,Chloropulvinaria psidii
-c746c7cf5e5b458f8899aaacc2ef5e8d,Guam,,Chloropulvinaria psidii
-1a02cdbb930d4c0dac2ee1a8b9f42ff5,Guam,,Duplaspidiotus tesseratus
-77bca80c949149c6a4a6d4bcc96bf39c,Guam,,Aleurodothrips fasciapennis
-e97c764e2e4b4b549365445e68b71d11,Guam,,Karnyothrips melaleuca
-fe8beb7965ef4b6f94c8b1889c4853f7,Saipan,,Tetranychus cinnabarinus
-fe8beb7965ef4b6f94c8b1889c4853f7,Tinian,,Tetranychus cinnabarinus
-fe8beb7965ef4b6f94c8b1889c4853f7,Rota,,Tetranychus cinnabarinus
-fe8beb7965ef4b6f94c8b1889c4853f7,Guam,,Tetranychus cinnabarinus
-23c41c133a95466a9ecf850401fdbef6,Saipan,,Oxycarenus bicolor
-23c41c133a95466a9ecf850401fdbef6,Tinian,,Oxycarenus bicolor
-23c41c133a95466a9ecf850401fdbef6,Rota,,Oxycarenus bicolor
-23c41c133a95466a9ecf850401fdbef6,Guam,,Oxycarenus bicolor
-3e87ebb20fe94292948f7a1e68511e5e,Republic of Palau,,Sundapteryx biguttula
-3e87ebb20fe94292948f7a1e68511e5e,Guam,,Sundapteryx biguttula
-d54b6cdd859d4b899dd9298118cae740,Republic of Palau,,Anomis erosa
-d54b6cdd859d4b899dd9298118cae740,Yap State,,Anomis erosa
-d54b6cdd859d4b899dd9298118cae740,Mariana Islands,,Anomis erosa
-6f9037d8974a4ea89b309b906ac34a00,Republic of Palau,,Diaphania indica
-6f9037d8974a4ea89b309b906ac34a00,Saipan,,Diaphania indica
-6f9037d8974a4ea89b309b906ac34a00,Tinian,,Diaphania indica
-6f9037d8974a4ea89b309b906ac34a00,Rota,,Diaphania indica
-6f9037d8974a4ea89b309b906ac34a00,Guam,,Diaphania indica
-70d6d1729d134451be5c3cff1535753b,Guam,,Trigonops hirsuta
-f6e31bb9a6c24dcbb3d8cdd1ec5317d0,Guam,,Trigonops inusitata
-be86c3b009544aeeaa209f8b5ba3bc52,Republic of Palau,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Yap State,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Chuuk State,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Saipan,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Tinian,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Rota,,Lepidosaphes tokionis
-be86c3b009544aeeaa209f8b5ba3bc52,Guam,,Lepidosaphes tokionis
-c9963b96206347aeaef1a810ed25b477,Guam,,Achaea janata
-84d07a7d17704bca85ab225d6e0076f2,Republic of Palau,,Aulacophora flavomarginata
-14091e98506648808bd01ba325e32cbf,Republic of Palau,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Yap State,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Chuuk State,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Pohnpei State,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Saipan,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Tinian,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Rota,,Trigonops sp.
-14091e98506648808bd01ba325e32cbf,Guam,,Trigonops sp.
-d0924639e95a4021a38b93b50bf8a3cd,Chuuk State,,Nanyozo viridilineatus
-acb53335e941457e9cb2774ce811eedb,Republic of Palau,,Aulacophora marginalis
-897f8a24456949bc9b31a36e62c32a4b,Republic of Palau,,Aulacophora similis
-897f8a24456949bc9b31a36e62c32a4b,Yap State,,Aulacophora similis
-897f8a24456949bc9b31a36e62c32a4b,Saipan,,Aulacophora similis
-897f8a24456949bc9b31a36e62c32a4b,Tinian,,Aulacophora similis
-897f8a24456949bc9b31a36e62c32a4b,Rota,,Aulacophora similis
-897f8a24456949bc9b31a36e62c32a4b,Guam,,Aulacophora similis
-0fd570567ebd4671a4737fc07ce49954,Yap State,,Aulacophora quadrimaculata
-0fd570567ebd4671a4737fc07ce49954,Saipan,,Aulacophora quadrimaculata
-0fd570567ebd4671a4737fc07ce49954,Tinian,,Aulacophora quadrimaculata
-0fd570567ebd4671a4737fc07ce49954,Rota,,Aulacophora quadrimaculata
-0fd570567ebd4671a4737fc07ce49954,Guam,,Aulacophora quadrimaculata
-83d1968ac91941a1a8018fe1806b9f75,Republic of Palau,new island record,Physomerus grossipes
-83d1968ac91941a1a8018fe1806b9f75,Saipan,,Physomerus grossipes
-83d1968ac91941a1a8018fe1806b9f75,Tinian,,Physomerus grossipes
-83d1968ac91941a1a8018fe1806b9f75,Rota,,Physomerus grossipes
-83d1968ac91941a1a8018fe1806b9f75,Guam,,Physomerus grossipes
-cfe1451957bf4b6a9a032b2097678298,Chuuk State,,Megymenum affine
-9b2f7d670b0744ca89f490a6275f73fa,Guam,,Halticus insularis
-ce2ff75dbc454dfcbd02cbf94583082d,Chuuk State,,Lepidosaphes beckii
-ce2ff75dbc454dfcbd02cbf94583082d,Pohnpei State,,Lepidosaphes beckii
-ce2ff75dbc454dfcbd02cbf94583082d,Guam,,Lepidosaphes beckii
-ead2d3e34b7d42108ee942a25e4e5080,Republic of Palau,,Diaphania hyalinata
-ead2d3e34b7d42108ee942a25e4e5080,Saipan,,Diaphania hyalinata
-ead2d3e34b7d42108ee942a25e4e5080,Tinian,,Diaphania hyalinata
-ead2d3e34b7d42108ee942a25e4e5080,Rota,,Diaphania hyalinata
-ead2d3e34b7d42108ee942a25e4e5080,Guam,,Diaphania hyalinata
-2c1103fe9e9c404581e04e5f65d848ac,Guam,,Stenocatantops splendens
-d7883e9aaa3c4a20888be82b0d68059c,Guam,,Anaballus amplicollis
-4d276766cd994b49931516c9e6307d55,Saipan,,Alciphron glaucus
-4d276766cd994b49931516c9e6307d55,Tinian,,Alciphron glaucus
-4d276766cd994b49931516c9e6307d55,Rota,,Alciphron glaucus
-4d276766cd994b49931516c9e6307d55,Guam,,Alciphron glaucus
-1040b60f3c90440f8a74b1c01db87fab,Republic of Palau,,Lepidosaphes carolinensis
-1040b60f3c90440f8a74b1c01db87fab,Yap State,,Lepidosaphes carolinensis
-f96949cbbef34c348de1285a3b98a062,Saipan,,Chilades pandava
-1a9d6bb87bc04413b194bdb29d2763df,Guam,,Epitrix hirtipennis
-8d6e0be1fb3849b6874649b272e7577e,Yap State,,Epilachna vigintisexpunctata philippensis
-8d6e0be1fb3849b6874649b272e7577e,Kosrae State,,Epilachna vigintisexpunctata philippensis
-b92a5bc4d47a4dacb6647021918eb54c,Kosrae State,,Lygus kusaiensis
-d6460f97e80242dd9f39ce3f354d7a70,Saipan,,Protoparce sp.
-d6460f97e80242dd9f39ce3f354d7a70,Tinian,,Protoparce sp.
-d6460f97e80242dd9f39ce3f354d7a70,Rota,,Protoparce sp.
-480994f349924d89a9a3d3b3a980bfa3,Guam,,Ceroplastes ceriferus
-6f7cc5cc99ae42099037fab581c984fe,Saipan,,Euploea leucostictos
-6f7cc5cc99ae42099037fab581c984fe,Tinian,,Euploea leucostictos
-6f7cc5cc99ae42099037fab581c984fe,Rota,,Euploea leucostictos
-6f7cc5cc99ae42099037fab581c984fe,Guam,,Euploea leucostictos
-f16d011ceac94add96c6690ee0239523,Republic of Palau,,Ostrinia furnacalis
-f16d011ceac94add96c6690ee0239523,Saipan,,Ostrinia furnacalis
-f16d011ceac94add96c6690ee0239523,Tinian,,Ostrinia furnacalis
-f16d011ceac94add96c6690ee0239523,Rota,,Ostrinia furnacalis
-f16d011ceac94add96c6690ee0239523,Guam,,Ostrinia furnacalis
-3a48d400dc5e4a23a15a50f187117ea3,Republic of Palau,,Saissetia neglecta
-3a48d400dc5e4a23a15a50f187117ea3,Pohnpei State,new island record,Saissetia neglecta
-3a48d400dc5e4a23a15a50f187117ea3,Guam,,Saissetia neglecta
-fb34abb6d10e47409f11d6e60e5c9af0,Guam,,Kilifia acuminata
-e81454e672e4497b8c3eddd2ce8c0228,Republic of Palau,,Kilifia deltoides
-dfc470812a2d47aaa8b1ac20b4c5c716,Guam,,Aleurothrixus floccosus
-0f0dc6e9f215468f9505aca8c7d37637,Chuuk State,,Parlatoria pergandii
-0f0dc6e9f215468f9505aca8c7d37637,Pohnpei State,,Parlatoria pergandii
-32d43e20bb3049eabbc5f55d120cd8bd,Saipan,,Neotermes connexus
-32d43e20bb3049eabbc5f55d120cd8bd,Tinian,,Neotermes connexus
-32d43e20bb3049eabbc5f55d120cd8bd,Rota,,Neotermes connexus
-32d43e20bb3049eabbc5f55d120cd8bd,Guam,,Neotermes connexus
-85e314bfae214983a2bef0ec5bae40ea,Kosrae State,,Dudua aprobola
-85e314bfae214983a2bef0ec5bae40ea,Saipan,,Dudua aprobola
-85e314bfae214983a2bef0ec5bae40ea,Tinian,,Dudua aprobola
-85e314bfae214983a2bef0ec5bae40ea,Rota,,Dudua aprobola
-85e314bfae214983a2bef0ec5bae40ea,Guam,,Dudua aprobola
-f7f355f807c44704a1fbf9fc837c0526,Guam,,Anua tongaensis
-fa9e48d06b7049b8838f97fae36ceac0,Saipan,,Strepsicrates ejectana
-fa9e48d06b7049b8838f97fae36ceac0,Tinian,,Strepsicrates ejectana
-fa9e48d06b7049b8838f97fae36ceac0,Rota,,Strepsicrates ejectana
-fa9e48d06b7049b8838f97fae36ceac0,Guam,,Strepsicrates ejectana
-df45749ca2f24137a9f5cbd1a0e54d62,Guam,,Saissetia miranda
-a9796411664348cbb48b8ca255265a52,Guam,,Agathodes ostentalis
-42bb35942c05412f8faaecc5c18af440,Guam,,Eotetranychus cendanai
-b67a29746916489eb7d59cabb388f88b,Saipan,,Daealus sp.
-b67a29746916489eb7d59cabb388f88b,Tinian,,Daealus sp.
-b67a29746916489eb7d59cabb388f88b,Rota,,Daealus sp.
-1941759385cc48b599af6f7cc834695f,Guam,,Protaetia fusca
-fb50ad9f5cc740808b03dda3c6984e41,Guam,,Chrysobothris costata
-42fde775eac047d0911ca23df5957a29,Saipan,,Agrilus occipitalis
-42fde775eac047d0911ca23df5957a29,Tinian,,Agrilus occipitalis
-42fde775eac047d0911ca23df5957a29,Rota,,Agrilus occipitalis
-42fde775eac047d0911ca23df5957a29,Guam,,Agrilus occipitalis
-146db13daa5d438f9f01dadeda4a89e2,Pohnpei State,,Unaspis citri
-69db9132b59e4ae0b8f8290738c2530a,Guam,,Aphis citricola
-212d38fa354c4ebbafafc84fea0eb2f4,Yap State,new island record,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Chuuk State,,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Pohnpei State,new island record,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Kosrae State,new island record,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Saipan,,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Tinian,,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Rota,,Aleurocanthus spiniferus
-212d38fa354c4ebbafafc84fea0eb2f4,Guam,,Aleurocanthus spiniferus
-b73caaa494114049b267f110d0aa380f,Pohnpei State,new island record,Dialeurodes citrifolii
-ddea208429e9418eb648936d6ece7a93,Republic of Palau,,Parlatoria zizyphus
-ddea208429e9418eb648936d6ece7a93,Chuuk State,new island record,Parlatoria zizyphus
-ddea208429e9418eb648936d6ece7a93,Pohnpei State,,Parlatoria zizyphus
-3526aa2bb2c3421981c862eae2b06a50,Yap State,new island record,Lepidosaphes gloverii
-3526aa2bb2c3421981c862eae2b06a50,Chuuk State,,Lepidosaphes gloverii
-3526aa2bb2c3421981c862eae2b06a50,Pohnpei State,,Lepidosaphes gloverii
-3526aa2bb2c3421981c862eae2b06a50,Saipan,,Lepidosaphes gloverii
-4d56c008976f4baf9b660ec8c4dd48e6,Republic of Palau,,Pseudococcus citriculus
-4d56c008976f4baf9b660ec8c4dd48e6,Pohnpei State,,Pseudococcus citriculus
-c6229cfd23174ae9ba6156dc8a103ad3,Kosrae State,,Abgrallaspis palmae
-ea5c979070584ff58bbff018e9eba643,Saipan,,Parlatoria cinerea
-ea5c979070584ff58bbff018e9eba643,Tinian,,Parlatoria cinerea
-ea5c979070584ff58bbff018e9eba643,Rota,,Parlatoria cinerea
-ea5c979070584ff58bbff018e9eba643,Guam,,Parlatoria cinerea
-29612fae2e134f1798bd12eb65692d54,Kosrae State,,Adoxophyes fasciculana
-155a1fa6ef3b417697f8d8c4e001d875,Guam,,Cryptophlebia peltastica
-67185a0a6798419bbd696db7317d5180,Republic of Palau,,Phyllocnistis citrella
-67185a0a6798419bbd696db7317d5180,Yap State,new island record,Phyllocnistis citrella
-67185a0a6798419bbd696db7317d5180,Saipan,,Phyllocnistis citrella
-67185a0a6798419bbd696db7317d5180,Tinian,,Phyllocnistis citrella
-67185a0a6798419bbd696db7317d5180,Rota,,Phyllocnistis citrella
-67185a0a6798419bbd696db7317d5180,Guam,,Phyllocnistis citrella
-74abf3477ea1472795aad6e68f3573fb,Republic of Palau,,Papilio polytes
-74abf3477ea1472795aad6e68f3573fb,Yap State,,Papilio polytes
-74abf3477ea1472795aad6e68f3573fb,Saipan,,Papilio polytes
-74abf3477ea1472795aad6e68f3573fb,Tinian,,Papilio polytes
-74abf3477ea1472795aad6e68f3573fb,Rota,,Papilio polytes
-74abf3477ea1472795aad6e68f3573fb,Guam,,Papilio polytes
-b19644f24c7040c6b380c1d61fa1e39b,Republic of Palau,,Prays citri
-b19644f24c7040c6b380c1d61fa1e39b,Yap State,,Prays citri
-b19644f24c7040c6b380c1d61fa1e39b,Saipan,,Prays citri
-b19644f24c7040c6b380c1d61fa1e39b,Tinian,,Prays citri
-b19644f24c7040c6b380c1d61fa1e39b,Rota,,Prays citri
-51f091ca33604b65a06c1a017be1d99e,Guam,,Phyllophaga bipunctata
-19341f9e379941a5b1caff3c5299000b,Guam,,Sitophilus oryzae
-3a32263580ee43408305aeb8dac788dc,Republic of Palau,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Yap State,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Pohnpei State,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Saipan,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Tinian,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Rota,,Pseudonapomyza spicata
-3a32263580ee43408305aeb8dac788dc,Guam,,Pseudonapomyza spicata
-04f98b8c75ff43f0b9c8602d6e2d769a,Republic of Palau,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Yap State,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Chuuk State,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Pohnpei State,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Saipan,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Tinian,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Rota,,Creontiades pallidifer
-04f98b8c75ff43f0b9c8602d6e2d769a,Guam,,Creontiades pallidifer
-d7a769128af54c27bdd20f2ccc7f3eb3,Republic of Palau,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Yap State,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Chuuk State,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Pohnpei State,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Saipan,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Tinian,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Rota,,Saccharicoccus sacchari
-d7a769128af54c27bdd20f2ccc7f3eb3,Guam,,Saccharicoccus sacchari
-a5b6d0a9779445e1bb8d530775a576cc,Republic of Palau,,Peregrinus maidis
-a5b6d0a9779445e1bb8d530775a576cc,Yap State,,Peregrinus maidis
-a5b6d0a9779445e1bb8d530775a576cc,Saipan,,Peregrinus maidis
-a5b6d0a9779445e1bb8d530775a576cc,Tinian,,Peregrinus maidis
-a5b6d0a9779445e1bb8d530775a576cc,Rota,,Peregrinus maidis
-a5b6d0a9779445e1bb8d530775a576cc,Guam,,Peregrinus maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Republic of Palau,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Yap State,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Chuuk State,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Pohnpei State,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Saipan,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Tinian,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Rota,,Rhopalosiphum maidis
-cdb83e0c29ac4ee291647ccfc0d59e76,Guam,,Rhopalosiphum maidis
-0bc8533dcaae4c9f9a9aefed7fa946ee,Republic of Palau,,Cicadulina bipunctella
-0bc8533dcaae4c9f9a9aefed7fa946ee,Yap State,,Cicadulina bipunctella
-0bc8533dcaae4c9f9a9aefed7fa946ee,Saipan,,Cicadulina bipunctella
-0bc8533dcaae4c9f9a9aefed7fa946ee,Tinian,,Cicadulina bipunctella
-0bc8533dcaae4c9f9a9aefed7fa946ee,Rota,,Cicadulina bipunctella
-0bc8533dcaae4c9f9a9aefed7fa946ee,Guam,,Cicadulina bipunctella
-66d374a484164361a9d4599d33beb54b,Republic of Palau,,Marasmia trapezalis
-66d374a484164361a9d4599d33beb54b,Saipan,,Marasmia trapezalis
-66d374a484164361a9d4599d33beb54b,Tinian,,Marasmia trapezalis
-66d374a484164361a9d4599d33beb54b,Rota,,Marasmia trapezalis
-66d374a484164361a9d4599d33beb54b,Guam,,Marasmia trapezalis
-006d68b56c6945d1bedd7fdc97987901,Republic of Palau,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Yap State,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Chuuk State,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Pohnpei State,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Kosrae State,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Saipan,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Tinian,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Rota,,Melanitis leda
-006d68b56c6945d1bedd7fdc97987901,Guam,,Melanitis leda
-e935c82a673e4cbf9e69f1de353d5d92,Chuuk State,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Pohnpei State,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Kosrae State,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Saipan,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Tinian,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Rota,,Conocephalus longipennis
-e935c82a673e4cbf9e69f1de353d5d92,Guam,,Conocephalus longipennis
-b569a540f71142c0922030cf9e1c8e3a,Republic of Palau,new island record,Oxya japonica
-b569a540f71142c0922030cf9e1c8e3a,Saipan,,Oxya japonica
-b569a540f71142c0922030cf9e1c8e3a,Tinian,,Oxya japonica
-b569a540f71142c0922030cf9e1c8e3a,Rota,,Oxya japonica
-79ec94719ded479f99dccbac75cab17c,Saipan,,Locusta migratoria manilensis
-79ec94719ded479f99dccbac75cab17c,Tinian,,Locusta migratoria manilensis
-79ec94719ded479f99dccbac75cab17c,Rota,,Locusta migratoria manilensis
-79ec94719ded479f99dccbac75cab17c,Guam,,Locusta migratoria manilensis
-b2f0c9dec9114307b436711c63cd5a74,Saipan,,Aiolopus thalassinus dubius
-b2f0c9dec9114307b436711c63cd5a74,Tinian,,Aiolopus thalassinus dubius
-b2f0c9dec9114307b436711c63cd5a74,Rota,,Aiolopus thalassinus dubius
-b2f0c9dec9114307b436711c63cd5a74,Guam,,Aiolopus thalassinus dubius
-187e08848184495a9b8cd3962ee7e045,Yap State,new island record,Oxya hyla
-187e08848184495a9b8cd3962ee7e045,Chuuk State,new island record,Oxya hyla
-187e08848184495a9b8cd3962ee7e045,Pohnpei State,new island record,Oxya hyla
-187e08848184495a9b8cd3962ee7e045,Kosrae State,new island record,Oxya hyla
-1662eba29b654a1299b22b23adbd7fb1,Chuuk State,,Rhyparida carolina
-1662eba29b654a1299b22b23adbd7fb1,Pohnpei State,,Rhyparida carolina
-1662eba29b654a1299b22b23adbd7fb1,Kosrae State,,Rhyparida carolina
-3c328abba24941059e3ee1f48a0c3ded,Saipan,,Sternochetus mangiferae
-3c328abba24941059e3ee1f48a0c3ded,Tinian,,Sternochetus mangiferae
-3c328abba24941059e3ee1f48a0c3ded,Rota,,Sternochetus mangiferae
-ba6371961a744b61becfde067beabbe4,Guam,,Cryptorhynchus mangiferae
-11e2397f79554088aa8e508a439c7f0b,Republic of Palau,,Semelaspidus mangiferae
-78cefbb843fe4ea1b6fb660fa276d8ba,Guam,,Pinnaspis sp.
-b70b6b65c75e4e7892040550c744ccc7,Pohnpei State,,Melanaspis bromeliae
-b70b6b65c75e4e7892040550c744ccc7,Guam,,Melanaspis bromeliae
-0aad0fd8b0be4ad1815861310958ed4d,Republic of Palau,,Radionaspis indica
-5550250886214ea98903d4e35feccc17,Chuuk State,new island record,Penicillaria jocosatrix
-5550250886214ea98903d4e35feccc17,Pohnpei State,new island record,Penicillaria jocosatrix
-5550250886214ea98903d4e35feccc17,Guam,,Penicillaria jocosatrix
-a3cf509a65f44e549502f00b516d9db9,Guam,,Anisodes illepidaria
-871d0fb9b9304b66b9d2788d8d804c9c,Saipan,,Dacus ochrosiae
-871d0fb9b9304b66b9d2788d8d804c9c,Tinian,,Dacus ochrosiae
-871d0fb9b9304b66b9d2788d8d804c9c,Rota,,Dacus ochrosiae
-871d0fb9b9304b66b9d2788d8d804c9c,Guam,,Dacus ochrosiae
-c377071bf5314330930c518b2ff66872,Republic of Palau,,Trioza vitiensis
-c377071bf5314330930c518b2ff66872,Chuuk State,,Trioza vitiensis
-c377071bf5314330930c518b2ff66872,Pohnpei State,,Trioza vitiensis
-030e2a9f48884805ab161d04708b2e26,Republic of Palau,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Yap State,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Pohnpei State,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Kosrae State,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Saipan,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Tinian,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Rota,,Mesohomotoma hibisci
-030e2a9f48884805ab161d04708b2e26,Guam,,Mesohomotoma hibisci
-6bf44c11e5574579927097965c40b808,Republic of Palau,,Anomis flava
-6bf44c11e5574579927097965c40b808,Yap State,,Anomis flava
-6bf44c11e5574579927097965c40b808,Saipan,,Anomis flava
-6bf44c11e5574579927097965c40b808,Tinian,,Anomis flava
-6bf44c11e5574579927097965c40b808,Rota,,Anomis flava
-6bf44c11e5574579927097965c40b808,Guam,,Anomis flava
-da85f6f0041d485caca8aa965ea97e03,Republic of Palau,,Earias vitella
-da85f6f0041d485caca8aa965ea97e03,Mariana Islands,,Earias vitella
-b05f6c95d2764ebc9642af938579dcf2,Guam,,Atractomorpha psittacina
-a0b83203522746ad97c1262660dff93f,Saipan,,Euphranta lemniscata
-a0b83203522746ad97c1262660dff93f,Tinian,,Euphranta lemniscata
-a0b83203522746ad97c1262660dff93f,Rota,,Euphranta lemniscata
-ee5898f09d174573b97112d2dc3d5333,Saipan,,Hendelina bisecta
-ee5898f09d174573b97112d2dc3d5333,Tinian,,Hendelina bisecta
-ee5898f09d174573b97112d2dc3d5333,Rota,,Hendelina bisecta
-ee5898f09d174573b97112d2dc3d5333,Guam,,Hendelina bisecta
-5380c99364f44cabb503b497c192ad56,Saipan,,Fulvius angustatus
-5380c99364f44cabb503b497c192ad56,Tinian,,Fulvius angustatus
-5380c99364f44cabb503b497c192ad56,Rota,,Fulvius angustatus
-5380c99364f44cabb503b497c192ad56,Guam,,Fulvius angustatus
-1df668f6a2ca42fba2c975c01eaba5dd,Pohnpei State,,Diaspis bromeliae
-1df668f6a2ca42fba2c975c01eaba5dd,Saipan,,Diaspis bromeliae
-1df668f6a2ca42fba2c975c01eaba5dd,Tinian,,Diaspis bromeliae
-1df668f6a2ca42fba2c975c01eaba5dd,Rota,,Diaspis bromeliae
-1df668f6a2ca42fba2c975c01eaba5dd,Guam,,Diaspis bromeliae
-2b48e244f1b44251ad8d2f81278f8c84,Guam,,Teleogryllus oceanicus
-3d82a099d22c4d30a0eabdf1ee75adfa,Yap State,,Chloriona formosella
-3d82a099d22c4d30a0eabdf1ee75adfa,Saipan,,Chloriona formosella
-3d82a099d22c4d30a0eabdf1ee75adfa,Tinian,,Chloriona formosella
-3d82a099d22c4d30a0eabdf1ee75adfa,Rota,,Chloriona formosella
-3d82a099d22c4d30a0eabdf1ee75adfa,Guam,,Chloriona formosella
-bbfbae83c5f04038b536980f5b3b74d0,Republic of Palau,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Yap State,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Chuuk State,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Saipan,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Tinian,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Rota,,Leptocorixa acuta
-bbfbae83c5f04038b536980f5b3b74d0,Guam,,Leptocorixa acuta
-22a36f0fe9844c089519349fd0146260,Republic of Palau,,Sogatella furcifera
-22a36f0fe9844c089519349fd0146260,Pohnpei State,,Sogatella furcifera
-22a36f0fe9844c089519349fd0146260,Guam,,Sogatella furcifera
-7a795950b42547299819007014e200d8,Republic of Palau,,Nephotettix apicalis
-7a795950b42547299819007014e200d8,Yap State,,Nephotettix apicalis
-7a795950b42547299819007014e200d8,Saipan,,Nephotettix apicalis
-7a795950b42547299819007014e200d8,Tinian,,Nephotettix apicalis
-7a795950b42547299819007014e200d8,Rota,,Nephotettix apicalis
-7a795950b42547299819007014e200d8,Guam,,Nephotettix apicalis
-4a11026c9180486fba2fd1d44da9714b,Republic of Palau,,Nilaparvata lugens
-4a11026c9180486fba2fd1d44da9714b,Yap State,,Nilaparvata lugens
-29c94d30c62d458ca1640dc68409f8f7,Republic of Palau,,Orthotylellus pallescens
-29c94d30c62d458ca1640dc68409f8f7,Pohnpei State,,Orthotylellus pallescens
-29c94d30c62d458ca1640dc68409f8f7,Saipan,,Orthotylellus pallescens
-29c94d30c62d458ca1640dc68409f8f7,Tinian,,Orthotylellus pallescens
-29c94d30c62d458ca1640dc68409f8f7,Rota,,Orthotylellus pallescens
-29c94d30c62d458ca1640dc68409f8f7,Guam,,Orthotylellus pallescens
-27d88623e88146dcbfc965624c804369,Guam,,Proboscidocoris malayus
-b80e8ed0134b4d92bdb4c350750bf8bf,Guam,,Grammarodes geometrica
-9cda82f5d6da40e1b6354eb89e029f73,Guam,,Nymphula fluctuosalis
-d34ab2db95704cc489e69d93dbf0def5,Guam,,Mythimna loreyi
-af61261828724ecb8584c2d781cb3cdb,Saipan,,Susumia exigua
-af61261828724ecb8584c2d781cb3cdb,Tinian,,Susumia exigua
-af61261828724ecb8584c2d781cb3cdb,Rota,,Susumia exigua
-af61261828724ecb8584c2d781cb3cdb,Guam,,Susumia exigua
-52e66581a00945dd99439fbfaf7ff3f5,Yap State,,Euconocephalus nasutus
-52e66581a00945dd99439fbfaf7ff3f5,Saipan,,Euconocephalus nasutus
-52e66581a00945dd99439fbfaf7ff3f5,Tinian,,Euconocephalus nasutus
-52e66581a00945dd99439fbfaf7ff3f5,Rota,,Euconocephalus nasutus
-52e66581a00945dd99439fbfaf7ff3f5,Guam,,Euconocephalus nasutus
-23890ec7e4f1411d9f80afe1f592fad1,Guam,,Bolacidothrips orizae
-d67d320333a748abad211f7da5b5066b,Republic of Palau,,Oxycephala pandani
-c2e8ea40a2544cbcb1dab4b3398ed460,Republic of Palau,,Oxycephala spaethi
-a2d0627b24c74e25b2851beefe55f0ea,Chuuk State,,Laminicoccus pandani
-a2d0627b24c74e25b2851beefe55f0ea,Pohnpei State,,Laminicoccus pandani
-e86e42e1172e439d90a9c88a26a1d89d,Republic of Palau,,Turbinococcus pandanicola
-aa1996bd5b5b41fb80adab51bc63cb8c,Saipan,,Myndus irreptor
-aa1996bd5b5b41fb80adab51bc63cb8c,Tinian,,Myndus irreptor
-aa1996bd5b5b41fb80adab51bc63cb8c,Rota,,Myndus irreptor
-aa1996bd5b5b41fb80adab51bc63cb8c,Guam,,Myndus irreptor
-c19ba4860d464f139074ae1e35187712,Saipan,,Myndus palawanensis
-c19ba4860d464f139074ae1e35187712,Tinian,,Myndus palawanensis
-c19ba4860d464f139074ae1e35187712,Rota,,Myndus palawanensis
-c19ba4860d464f139074ae1e35187712,Guam,,Myndus palawanensis
-4a4581db3f9e4271ad6bcc5984356b0f,Chuuk State,,Swezeyaria viridana
-4a4581db3f9e4271ad6bcc5984356b0f,Pohnpei State,,Swezeyaria viridana
-4a4581db3f9e4271ad6bcc5984356b0f,Kosrae State,,Swezeyaria viridana
-4a4581db3f9e4271ad6bcc5984356b0f,Guam,,Swezeyaria viridana
-6078e7d60b5446b3b905dbde5c689517,Saipan,,Capelopterum punctatellum
-6078e7d60b5446b3b905dbde5c689517,Tinian,,Capelopterum punctatellum
-6078e7d60b5446b3b905dbde5c689517,Rota,,Capelopterum punctatellum
-6078e7d60b5446b3b905dbde5c689517,Guam,,Capelopterum punctatellum
-daa48f359ac74c25b6cd3f6d5c41d00a,Pohnpei State,,Neosimmondsia esakii
-86406450d5054fc69df608315ae9d470,Saipan,,Myndus bifurcatus
-86406450d5054fc69df608315ae9d470,Tinian,,Myndus bifurcatus
-86406450d5054fc69df608315ae9d470,Rota,,Myndus bifurcatus
-86406450d5054fc69df608315ae9d470,Guam,,Myndus bifurcatus
-1ebaac5926de43f287f8d5308a419258,Chuuk State,,Paralecanium carolinensis
-ff28f9152ba4438c89f3f97cf5b9f08f,Pohnpei State,,Pandanicola pandani
-58659a2663124400a3c791e89fe19282,Republic of Palau,,Nesorhamma chalcas
-08c7e7f2f6a049db92ea02a5dde168b2,Chuuk State,,Myndus dibaphus
-08c7e7f2f6a049db92ea02a5dde168b2,Saipan,,Myndus dibaphus
-08c7e7f2f6a049db92ea02a5dde168b2,Tinian,,Myndus dibaphus
-08c7e7f2f6a049db92ea02a5dde168b2,Rota,,Myndus dibaphus
-08c7e7f2f6a049db92ea02a5dde168b2,Guam,,Myndus dibaphus
-9cf29409b4da441681be9d578ad7fac1,Republic of Palau,,Pseudococcus pandanicola
-1bd0d753945e4f0eb072c8d7bbee05cc,Saipan,,Batrachomorphus atrifrons
-1bd0d753945e4f0eb072c8d7bbee05cc,Tinian,,Batrachomorphus atrifrons
-1bd0d753945e4f0eb072c8d7bbee05cc,Rota,,Batrachomorphus atrifrons
-1bd0d753945e4f0eb072c8d7bbee05cc,Guam,,Batrachomorphus atrifrons
-c28799a0a2f94a1ca934b4c20188f163,Republic of Palau,,Pandanicola esakii
-dc33eee8eed74a7084972a0933a9796f,Pohnpei State,,Armacia clara
-bf36e65cc04141fdab9e47b4db970cb4,Saipan,,Trissodoris guamensis
-bf36e65cc04141fdab9e47b4db970cb4,Tinian,,Trissodoris guamensis
-bf36e65cc04141fdab9e47b4db970cb4,Rota,,Trissodoris guamensis
-bf36e65cc04141fdab9e47b4db970cb4,Guam,,Trissodoris guamensis
-fb775a3e0b0c4cefb82bd1d0e5d38e3f,Kosrae State,,Megacrania batesii
-9601763dfa0e4f3fbd8d15fffbae86b8,Republic of Palau,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Yap State,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Chuuk State,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Pohnpei State,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Saipan,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Tinian,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Rota,,Dysmicoccus boninsis
-9601763dfa0e4f3fbd8d15fffbae86b8,Guam,,Dysmicoccus boninsis
-d194f89057ba4054a5ffae227a8fd553,Republic of Palau,,Neomaskellia bergii
-d194f89057ba4054a5ffae227a8fd553,Yap State,,Neomaskellia bergii
-d194f89057ba4054a5ffae227a8fd553,Chuuk State,,Neomaskellia bergii
-d194f89057ba4054a5ffae227a8fd553,Pohnpei State,,Neomaskellia bergii
-d194f89057ba4054a5ffae227a8fd553,Kosrae State,,Neomaskellia bergii
-d194f89057ba4054a5ffae227a8fd553,Guam,,Neomaskellia bergii
-bf9e3870eeda4711b7c36d9e513e8240,Republic of Palau,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Yap State,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Chuuk State,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Kosrae State,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Saipan,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Tinian,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Rota,,Saissetia nigra
-bf9e3870eeda4711b7c36d9e513e8240,Guam,,Saissetia nigra
-a3fb9102b7054978b61ce5736ee30120,Guam,,Kallitaxila crini
-1ab8f288490f4f7ebfe1941dfe052604,Republic of Palau,,Lepidosaphes palauensis
-1ab8f288490f4f7ebfe1941dfe052604,Guam,,Lepidosaphes palauensis
-da96bf36a9ab433185a647200b16ec14,Republic of Palau,,Anoronotum rufum
-391296cfc86c454a8155185db996f77a,Guam,,Gonocephalum sp.
-6349bd9fc4e14e6db6dc28acf57f32ba,Republic of Palau,,Aspidiella sacchari
-6349bd9fc4e14e6db6dc28acf57f32ba,Saipan,,Aspidiella sacchari
-6349bd9fc4e14e6db6dc28acf57f32ba,Tinian,,Aspidiella sacchari
-6349bd9fc4e14e6db6dc28acf57f32ba,Rota,,Aspidiella sacchari
-6349bd9fc4e14e6db6dc28acf57f32ba,Guam,,Aspidiella sacchari
-4fae57a2b87f4b90b06adc4256c40b91,Republic of Palau,,Odonaspis saccharicaulis
-7b6bd1e14f1a432db4418ec564772b80,Republic of Palau,,Chanithus gramineus
-7b6bd1e14f1a432db4418ec564772b80,Yap State,,Chanithus gramineus
-7b6bd1e14f1a432db4418ec564772b80,Saipan,,Chanithus gramineus
-7b6bd1e14f1a432db4418ec564772b80,Tinian,,Chanithus gramineus
-7b6bd1e14f1a432db4418ec564772b80,Rota,,Chanithus gramineus
-7b6bd1e14f1a432db4418ec564772b80,Guam,,Chanithus gramineus
-c60741cfaba74399923223740bdde124,Saipan,,Ugyops annulipes
-c60741cfaba74399923223740bdde124,Tinian,,Ugyops annulipes
-c60741cfaba74399923223740bdde124,Rota,,Ugyops annulipes
-c60741cfaba74399923223740bdde124,Guam,,Ugyops annulipes
-8460ef0aef374570bbabdedee7284bb6,Republic of Palau,,Aulacaspis madiunensis
-8460ef0aef374570bbabdedee7284bb6,Yap State,,Aulacaspis madiunensis
-c1a3de185af14fccb089b17a6f756537,Yap State,,Aulacaspis tegalensis
-aa693975b81547708aefc228b51f8d07,Republic of Palau,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Yap State,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Chuuk State,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Saipan,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Tinian,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Rota,,Perkinsiella thompsoni
-aa693975b81547708aefc228b51f8d07,Guam,,Perkinsiella thompsoni
-cda77b1fecf74203a6256f4deeca6df0,Chuuk State,,Nanyozo viridipictus
-54650388caa84746b52ee2758126d25e,Saipan,,Colasposoma metallicum
-54650388caa84746b52ee2758126d25e,Tinian,,Colasposoma metallicum
-54650388caa84746b52ee2758126d25e,Rota,,Colasposoma metallicum
-54650388caa84746b52ee2758126d25e,Guam,,Colasposoma metallicum
-d6fbb60c21d74ee4b2b1d656c24796f6,Republic of Palau,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Yap State,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Chuuk State,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Pohnpei State,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Saipan,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Tinian,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Rota,,Euscepes postfasciatus
-d6fbb60c21d74ee4b2b1d656c24796f6,Guam,,Euscepes postfasciatus
-16195d4e3f274420b40684f438064fd9,Republic of Palau,,Sphaeropterus sp.
-5589a675344143e38c5e7ffe5d73561e,Republic of Palau,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Yap State,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Chuuk State,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Saipan,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Tinian,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Rota,,Cylas formicarius
-5589a675344143e38c5e7ffe5d73561e,Guam,,Cylas formicarius
-055aa77ce8774b0c930e29391d0dddd0,Guam,,Chaetocnema confinis
-ea0608753a5a4c4b962037bcab93a930,Republic of Palau,,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Yap State,new island record,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Chuuk State,,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Pohnpei State,new island record,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Saipan,,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Tinian,,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Rota,,Metriona circumdata
-ea0608753a5a4c4b962037bcab93a930,Guam,,Metriona circumdata
-975440161d194795a41c62a64f528936,Saipan,,Zanchius fragilis
-975440161d194795a41c62a64f528936,Tinian,,Zanchius fragilis
-975440161d194795a41c62a64f528936,Rota,,Zanchius fragilis
-975440161d194795a41c62a64f528936,Guam,,Zanchius fragilis
-50be45d9008945b7a98ac8af261728a3,Guam,,Lepidosaphes sp.
-5edb1f737d9c46c5b2605cc8f3bd4a35,Republic of Palau,,Pachyzancla nipponalis
-e08b7dc042c54997900d2da5ff425800,Republic of Palau,,Acrocercops sp.
-e08b7dc042c54997900d2da5ff425800,Chuuk State,,Acrocercops sp.
-e08b7dc042c54997900d2da5ff425800,Pohnpei State,,Acrocercops sp.
-e08b7dc042c54997900d2da5ff425800,Saipan,,Acrocercops sp.
-e08b7dc042c54997900d2da5ff425800,Tinian,,Acrocercops sp.
-e08b7dc042c54997900d2da5ff425800,Rota,,Acrocercops sp.
-c1ab228c6d1a481d8ab19a5f63ab29f4,Republic of Palau,,Precis villida
-c1ab228c6d1a481d8ab19a5f63ab29f4,Chuuk State,,Precis villida
-c1ab228c6d1a481d8ab19a5f63ab29f4,Pohnpei State,,Precis villida
-03a2136684ac4bbc8f9e3098d9c5179c,Republic of Palau,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Yap State,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Chuuk State,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Pohnpei State,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Kosrae State,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Saipan,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Tinian,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Rota,,Hypolimnas bolina
-03a2136684ac4bbc8f9e3098d9c5179c,Guam,,Hypolimnas bolina
-7375404c8e134cebb59fa737bac69788,Guam,,Hippotion swinhoei
-5f5bc7a29f984f4189bae68b621f5c12,Guam,,Gryllotalpa sp.
-3e3e9e31c40f41039f6c3bd6a7e703bf,Guam,,Tetranychus sp.
-69dfe590170d40ff83d609d1c93f7697,Pohnpei State,,Atactus deplanatus
-17261ce431294e09ba87a8f7cf6c2de3,Republic of Palau,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Yap State,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Chuuk State,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Pohnpei State,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Kosrae State,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Saipan,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Tinian,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Rota,,Tarophagus proserpina
-17261ce431294e09ba87a8f7cf6c2de3,Guam,,Tarophagus proserpina
-a7343665422242e6accced7ae3a4a963,Republic of Palau,,Hippotion celerio
-a7343665422242e6accced7ae3a4a963,Saipan,,Hippotion celerio
-a7343665422242e6accced7ae3a4a963,Tinian,,Hippotion celerio
-a7343665422242e6accced7ae3a4a963,Rota,,Hippotion celerio
-a7343665422242e6accced7ae3a4a963,Guam,,Hippotion celerio
-e51676b1b8f24714ae1018c7965fdfea,Republic of Palau,,Theretra pinastrina
-e51676b1b8f24714ae1018c7965fdfea,Yap State,,Theretra pinastrina
-e51676b1b8f24714ae1018c7965fdfea,Saipan,,Theretra pinastrina
-e51676b1b8f24714ae1018c7965fdfea,Tinian,,Theretra pinastrina
-e51676b1b8f24714ae1018c7965fdfea,Rota,,Theretra pinastrina
-e51676b1b8f24714ae1018c7965fdfea,Guam,,Theretra pinastrina
-b82370476e03494e9bdcc2ca174bbdb6,Republic of Palau,,Pseudococcus macrocirculus
-b82370476e03494e9bdcc2ca174bbdb6,Yap State,,Pseudococcus macrocirculus
-811638bf61ff49d8a145de65963e94da,Republic of Palau,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Chuuk State,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Pohnpei State,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Saipan,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Tinian,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Rota,,Cyrtopeltis tenuis
-811638bf61ff49d8a145de65963e94da,Guam,,Cyrtopeltis tenuis
-4d7f489e68034054b6ffdf375098dab6,Republic of Palau,,Nesophrosyne argentatus
-4d7f489e68034054b6ffdf375098dab6,Yap State,,Nesophrosyne argentatus
-4d7f489e68034054b6ffdf375098dab6,Saipan,,Nesophrosyne argentatus
-4d7f489e68034054b6ffdf375098dab6,Tinian,,Nesophrosyne argentatus
-4d7f489e68034054b6ffdf375098dab6,Rota,,Nesophrosyne argentatus
-4d7f489e68034054b6ffdf375098dab6,Guam,,Nesophrosyne argentatus
-e454f3a969ac4f2abca75f46931e70b1,Saipan,,Trigonops vulgaris
-e454f3a969ac4f2abca75f46931e70b1,Tinian,,Trigonops vulgaris
-e454f3a969ac4f2abca75f46931e70b1,Rota,,Trigonops vulgaris
-e454f3a969ac4f2abca75f46931e70b1,Guam,,Trigonops vulgaris
-668e5301a0b1488cade39eb5506ddb84,Republic of Palau,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Yap State,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Pohnpei State,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Saipan,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Tinian,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Rota,,Dialeurodes kirkaldyi
-668e5301a0b1488cade39eb5506ddb84,Guam,,Dialeurodes kirkaldyi
-7f2bfc135e5c4d058a80affdc5b6d2be,Republic of Palau,new island record,Badamia exclamationis
-7f2bfc135e5c4d058a80affdc5b6d2be,Saipan,,Badamia exclamationis
-7f2bfc135e5c4d058a80affdc5b6d2be,Tinian,,Badamia exclamationis
-7f2bfc135e5c4d058a80affdc5b6d2be,Rota,,Badamia exclamationis
-7f2bfc135e5c4d058a80affdc5b6d2be,Guam,,Badamia exclamationis
-855cd310a1084e46aa8f3e602ffd4c27,Guam,,Anua coronata
-a1179eea65ab4322b9335b2c7e857be9,Guam,,Tetranychus neocaledonicus
-14ca520ccacc4507883c0d42b54db858,Republic of Palau,,Theretra nessus
-14ca520ccacc4507883c0d42b54db858,Yap State,,Theretra nessus
-14ca520ccacc4507883c0d42b54db858,Chuuk State,,Theretra nessus
+ID,island,new_island_record
+17c201c8da1847929a10109237aab0f4,Yap State,
+17c201c8da1847929a10109237aab0f4,Saipan,
+17c201c8da1847929a10109237aab0f4,Tinian,
+17c201c8da1847929a10109237aab0f4,Rota,
+17c201c8da1847929a10109237aab0f4,Guam,
+311cf11008e54e33a9259ed045b47b23,Saipan,
+311cf11008e54e33a9259ed045b47b23,Tinian,
+311cf11008e54e33a9259ed045b47b23,Rota,
+311cf11008e54e33a9259ed045b47b23,Guam,
+1e02c9c91085410092b1dcfa20c2be82,Republic of Palau,
+1e02c9c91085410092b1dcfa20c2be82,Yap State,
+1e02c9c91085410092b1dcfa20c2be82,Chuuk State,
+1e02c9c91085410092b1dcfa20c2be82,Pohnpei State,
+1e02c9c91085410092b1dcfa20c2be82,Saipan,
+1e02c9c91085410092b1dcfa20c2be82,Tinian,
+1e02c9c91085410092b1dcfa20c2be82,Rota,
+1e02c9c91085410092b1dcfa20c2be82,Guam,
+e624b614b2aa46b391d01f58505b1b75,Saipan,
+e624b614b2aa46b391d01f58505b1b75,Tinian,
+e624b614b2aa46b391d01f58505b1b75,Rota,
+e624b614b2aa46b391d01f58505b1b75,Guam,
+370f7791cf5c41429c230bd905792365,Republic of Palau,
+370f7791cf5c41429c230bd905792365,Yap State,
+370f7791cf5c41429c230bd905792365,Pohnpei State,
+9b5f09b6cdc54dc49900743d95a168cf,Saipan,
+9b5f09b6cdc54dc49900743d95a168cf,Tinian,
+9b5f09b6cdc54dc49900743d95a168cf,Rota,
+9b5f09b6cdc54dc49900743d95a168cf,Guam,
+f505d36396524c81af039fae6e19cd45,Republic of Palau,
+f505d36396524c81af039fae6e19cd45,Yap State,
+f505d36396524c81af039fae6e19cd45,Chuuk State,
+f505d36396524c81af039fae6e19cd45,Pohnpei State,
+f505d36396524c81af039fae6e19cd45,Kosrae State,
+f505d36396524c81af039fae6e19cd45,Saipan,
+f505d36396524c81af039fae6e19cd45,Tinian,
+f505d36396524c81af039fae6e19cd45,Rota,
+f505d36396524c81af039fae6e19cd45,Guam,
+880a117f68f041b59dd7fd19c3b3cb63,Republic of Palau,
+880a117f68f041b59dd7fd19c3b3cb63,Pohnpei State,
+880a117f68f041b59dd7fd19c3b3cb63,Saipan,
+880a117f68f041b59dd7fd19c3b3cb63,Tinian,
+880a117f68f041b59dd7fd19c3b3cb63,Rota,
+880a117f68f041b59dd7fd19c3b3cb63,Guam,
+45781c22862548c1821c8faa424feb75,Republic of Palau,
+45781c22862548c1821c8faa424feb75,Saipan,
+45781c22862548c1821c8faa424feb75,Tinian,
+45781c22862548c1821c8faa424feb75,Rota,
+45781c22862548c1821c8faa424feb75,Guam,
+997add7a3c7f40709c55d2853fd9e652,Republic of Palau,
+997add7a3c7f40709c55d2853fd9e652,Yap State,new island record
+997add7a3c7f40709c55d2853fd9e652,Chuuk State,
+997add7a3c7f40709c55d2853fd9e652,Pohnpei State,
+997add7a3c7f40709c55d2853fd9e652,Kosrae State,
+3f20c7b3d313457fa838eeb1e0213ae4,Republic of Palau,
+3f20c7b3d313457fa838eeb1e0213ae4,Yap State,
+3f20c7b3d313457fa838eeb1e0213ae4,Chuuk State,
+3f20c7b3d313457fa838eeb1e0213ae4,Pohnpei State,
+3f20c7b3d313457fa838eeb1e0213ae4,Kosrae State,
+3f20c7b3d313457fa838eeb1e0213ae4,Saipan,
+3f20c7b3d313457fa838eeb1e0213ae4,Tinian,
+3f20c7b3d313457fa838eeb1e0213ae4,Rota,
+3f20c7b3d313457fa838eeb1e0213ae4,Guam,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Republic of Palau,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Yap State,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Chuuk State,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Pohnpei State,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Saipan,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Tinian,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Rota,
+9a40b6a68b2a40ee8aecc0c9eca9772d,Guam,
+ff627ef1896641b8af4bfc04573754e3,Chuuk State,
+b543bab33cf044adaaa147db5ae02e07,Republic of Palau,
+b543bab33cf044adaaa147db5ae02e07,Yap State,
+29bd01f83d884508b1e6b3059d3d76cd,Yap State,
+d28ff028222641509fb0d5b02663d153,Republic of Palau,
+d28ff028222641509fb0d5b02663d153,Yap State,
+d28ff028222641509fb0d5b02663d153,Chuuk State,
+d28ff028222641509fb0d5b02663d153,Pohnpei State,
+d28ff028222641509fb0d5b02663d153,Saipan,
+d28ff028222641509fb0d5b02663d153,Tinian,
+d28ff028222641509fb0d5b02663d153,Rota,
+d28ff028222641509fb0d5b02663d153,Guam,
+e7efe2f4a12c478299bfd8e9a81778fc,Republic of Palau,new island record
+e7efe2f4a12c478299bfd8e9a81778fc,Yap State,new island record
+e7efe2f4a12c478299bfd8e9a81778fc,Chuuk State,new island record
+e7efe2f4a12c478299bfd8e9a81778fc,Pohnpei State,
+e7efe2f4a12c478299bfd8e9a81778fc,Saipan,
+e7efe2f4a12c478299bfd8e9a81778fc,Tinian,
+e7efe2f4a12c478299bfd8e9a81778fc,Rota,
+e7efe2f4a12c478299bfd8e9a81778fc,Guam,
+ae9347c648da4db48a86e8253d1e5c7f,Saipan,
+ae9347c648da4db48a86e8253d1e5c7f,Tinian,
+ae9347c648da4db48a86e8253d1e5c7f,Rota,
+ae9347c648da4db48a86e8253d1e5c7f,Guam,
+753549d6c4024957add8a49e4ae3b798,Saipan,
+753549d6c4024957add8a49e4ae3b798,Tinian,
+753549d6c4024957add8a49e4ae3b798,Rota,
+753549d6c4024957add8a49e4ae3b798,Guam,
+57aceabc91124f08a472d45a1fd0022f,Guam,
+57aceabc91124f08a472d45a1fd0022f,Rota,
+397b8c0a648e4132b1379b6d070c4f9c,Republic of Palau,
+397b8c0a648e4132b1379b6d070c4f9c,Pohnpei State,
+397b8c0a648e4132b1379b6d070c4f9c,Guam,
+44b2f9d579214517b1d549685b78b466,Republic of Palau,
+44b2f9d579214517b1d549685b78b466,Chuuk State,new island record
+44b2f9d579214517b1d549685b78b466,Saipan,
+44b2f9d579214517b1d549685b78b466,Tinian,
+44b2f9d579214517b1d549685b78b466,Rota,
+44b2f9d579214517b1d549685b78b466,Guam,
+653cb1039d1c4cbeb61be2369de78be1,Pohnpei State,
+653cb1039d1c4cbeb61be2369de78be1,Guam,
+570f1904360c4b61b8415b95d619d08c,Pohnpei State,
+3c934a1fd63f40d4969ce7e02a988b83,Republic of Palau,
+268b368765e94eb18960ff7931e7e8df,Republic of Palau,
+268b368765e94eb18960ff7931e7e8df,Pohnpei State,
+268b368765e94eb18960ff7931e7e8df,Saipan,
+268b368765e94eb18960ff7931e7e8df,Tinian,
+268b368765e94eb18960ff7931e7e8df,Rota,
+268b368765e94eb18960ff7931e7e8df,Guam,
+c271204e1d4542f9acbfff5fd560ab64,Republic of Palau,
+c271204e1d4542f9acbfff5fd560ab64,Saipan,
+c271204e1d4542f9acbfff5fd560ab64,Tinian,
+c271204e1d4542f9acbfff5fd560ab64,Rota,
+c271204e1d4542f9acbfff5fd560ab64,Guam,
+93b3b730ce8d44d592281add2e5ca264,Pohnpei State,new island record
+93b3b730ce8d44d592281add2e5ca264,Saipan,
+93b3b730ce8d44d592281add2e5ca264,Tinian,
+93b3b730ce8d44d592281add2e5ca264,Rota,
+93b3b730ce8d44d592281add2e5ca264,Guam,
+b9f55c9a77304db3a237805d7fe8129f,Saipan,
+b9f55c9a77304db3a237805d7fe8129f,Tinian,
+b9f55c9a77304db3a237805d7fe8129f,Rota,
+b9f55c9a77304db3a237805d7fe8129f,Guam,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Republic of Palau,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Pohnpei State,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Saipan,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Tinian,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Rota,
+6f6a31d9fd3b43b697b14b7c37b2a8f8,Guam,
+7d3b3ec8605a47ab8417a79e09a3135d,Republic of Palau,
+7d3b3ec8605a47ab8417a79e09a3135d,Yap State,
+7d3b3ec8605a47ab8417a79e09a3135d,Chuuk State,
+7d3b3ec8605a47ab8417a79e09a3135d,Pohnpei State,
+7d3b3ec8605a47ab8417a79e09a3135d,Kosrae State,
+7d3b3ec8605a47ab8417a79e09a3135d,Saipan,
+7d3b3ec8605a47ab8417a79e09a3135d,Tinian,
+7d3b3ec8605a47ab8417a79e09a3135d,Rota,
+7d3b3ec8605a47ab8417a79e09a3135d,Guam,
+ee7c1796b0e04fda9e515662399e790d,Republic of Palau,
+ee7c1796b0e04fda9e515662399e790d,Saipan,
+ee7c1796b0e04fda9e515662399e790d,Tinian,
+ee7c1796b0e04fda9e515662399e790d,Rota,
+9dcf368026a240ffaa94091f27585df6,Republic of Palau,
+9dcf368026a240ffaa94091f27585df6,Yap State,
+9dcf368026a240ffaa94091f27585df6,Chuuk State,
+9dcf368026a240ffaa94091f27585df6,Pohnpei State,
+9dcf368026a240ffaa94091f27585df6,Saipan,
+9dcf368026a240ffaa94091f27585df6,Tinian,
+9dcf368026a240ffaa94091f27585df6,Rota,
+9dcf368026a240ffaa94091f27585df6,Guam,
+6e1477938a214c5593440e40e6e2318a,Republic of Palau,
+6e1477938a214c5593440e40e6e2318a,Pohnpei State,new island record
+6e1477938a214c5593440e40e6e2318a,Saipan,
+6e1477938a214c5593440e40e6e2318a,Tinian,
+6e1477938a214c5593440e40e6e2318a,Rota,
+6e1477938a214c5593440e40e6e2318a,Guam,
+d69744f411f542669cf28715cd9fe7f8,Republic of Palau,
+d69744f411f542669cf28715cd9fe7f8,Yap State,
+d69744f411f542669cf28715cd9fe7f8,Chuuk State,
+d69744f411f542669cf28715cd9fe7f8,Pohnpei State,
+d69744f411f542669cf28715cd9fe7f8,Kosrae State,
+d69744f411f542669cf28715cd9fe7f8,Saipan,
+d69744f411f542669cf28715cd9fe7f8,Tinian,
+d69744f411f542669cf28715cd9fe7f8,Rota,
+d69744f411f542669cf28715cd9fe7f8,Guam,
+c2e1f058aa364ee5a8feb2b7d6ac9f18,Republic of Palau,
+c2e1f058aa364ee5a8feb2b7d6ac9f18,Guam,
+b9e8566c3d0f47a79c4d81e8626f5543,Chuuk State,
+b9e8566c3d0f47a79c4d81e8626f5543,Pohnpei State,
+becaf5d445a942ccb83edc1411b59dd5,Chuuk State,
+becaf5d445a942ccb83edc1411b59dd5,Kosrae State,
+becaf5d445a942ccb83edc1411b59dd5,Saipan,
+becaf5d445a942ccb83edc1411b59dd5,Tinian,
+becaf5d445a942ccb83edc1411b59dd5,Rota,
+b9c86eb2ddf0491498ab9ca1a27fc7ae,Republic of Palau,
+6cdebd40f62d4a1fbca64f7b70242f5e,Republic of Palau,
+6cdebd40f62d4a1fbca64f7b70242f5e,Yap State,
+6cdebd40f62d4a1fbca64f7b70242f5e,Chuuk State,
+6cdebd40f62d4a1fbca64f7b70242f5e,Pohnpei State,
+6cdebd40f62d4a1fbca64f7b70242f5e,Saipan,
+6cdebd40f62d4a1fbca64f7b70242f5e,Tinian,
+6cdebd40f62d4a1fbca64f7b70242f5e,Rota,
+6cdebd40f62d4a1fbca64f7b70242f5e,Guam,
+fc58da841da64b73ae0131375cd7e346,Republic of Palau,
+fc58da841da64b73ae0131375cd7e346,Chuuk State,
+fc58da841da64b73ae0131375cd7e346,Saipan,
+fc58da841da64b73ae0131375cd7e346,Tinian,
+fc58da841da64b73ae0131375cd7e346,Rota,
+fc58da841da64b73ae0131375cd7e346,Guam,
+6582c42d3e4845f8a3fa535dc9af15c5,Republic of Palau,
+6582c42d3e4845f8a3fa535dc9af15c5,Yap State,
+6582c42d3e4845f8a3fa535dc9af15c5,Chuuk State,
+6582c42d3e4845f8a3fa535dc9af15c5,Pohnpei State,
+6582c42d3e4845f8a3fa535dc9af15c5,Kosrae State,new island record
+6582c42d3e4845f8a3fa535dc9af15c5,Saipan,
+6582c42d3e4845f8a3fa535dc9af15c5,Tinian,
+6582c42d3e4845f8a3fa535dc9af15c5,Rota,
+6582c42d3e4845f8a3fa535dc9af15c5,Guam,
+968834638ddf4a69ad0436aa18482ab2,Republic of Palau,
+968834638ddf4a69ad0436aa18482ab2,Yap State,
+968834638ddf4a69ad0436aa18482ab2,Chuuk State,
+968834638ddf4a69ad0436aa18482ab2,Saipan,
+968834638ddf4a69ad0436aa18482ab2,Tinian,
+968834638ddf4a69ad0436aa18482ab2,Rota,
+968834638ddf4a69ad0436aa18482ab2,Guam,
+364ee199ca2148d8aeb8e955bb1959c4,Republic of Palau,
+364ee199ca2148d8aeb8e955bb1959c4,Yap State,
+364ee199ca2148d8aeb8e955bb1959c4,Guam,
+57e2c69ddd534544afaae175b5462414,Republic of Palau,
+57e2c69ddd534544afaae175b5462414,Yap State,
+57e2c69ddd534544afaae175b5462414,Chuuk State,
+57e2c69ddd534544afaae175b5462414,Pohnpei State,
+57e2c69ddd534544afaae175b5462414,Kosrae State,
+57e2c69ddd534544afaae175b5462414,Guam,
+53622d38eec24ff5be8b937ed0c24ff8,Republic of Palau,
+53622d38eec24ff5be8b937ed0c24ff8,Chuuk State,
+53622d38eec24ff5be8b937ed0c24ff8,Mariana Islands,
+b555107fd7394b749f00719b99deff64,Republic of Palau,
+b555107fd7394b749f00719b99deff64,Yap State,
+b555107fd7394b749f00719b99deff64,Chuuk State,
+b555107fd7394b749f00719b99deff64,Pohnpei State,
+b555107fd7394b749f00719b99deff64,Kosrae State,new island record
+b555107fd7394b749f00719b99deff64,Saipan,
+b555107fd7394b749f00719b99deff64,Tinian,
+b555107fd7394b749f00719b99deff64,Rota,
+b555107fd7394b749f00719b99deff64,Guam,
+dd1cd70d7de64d18ac75c10c5556cd52,Republic of Palau,
+dd1cd70d7de64d18ac75c10c5556cd52,Yap State,
+dd1cd70d7de64d18ac75c10c5556cd52,Chuuk State,
+dd1cd70d7de64d18ac75c10c5556cd52,Pohnpei State,
+dd1cd70d7de64d18ac75c10c5556cd52,Kosrae State,
+dd1cd70d7de64d18ac75c10c5556cd52,Saipan,
+dd1cd70d7de64d18ac75c10c5556cd52,Tinian,
+dd1cd70d7de64d18ac75c10c5556cd52,Rota,
+dd1cd70d7de64d18ac75c10c5556cd52,Guam,
+064cc43b42124fab9eec2aeb2ce20ef1,Republic of Palau,
+064cc43b42124fab9eec2aeb2ce20ef1,Yap State,
+064cc43b42124fab9eec2aeb2ce20ef1,Chuuk State,
+064cc43b42124fab9eec2aeb2ce20ef1,Pohnpei State,
+064cc43b42124fab9eec2aeb2ce20ef1,Kosrae State,
+064cc43b42124fab9eec2aeb2ce20ef1,Saipan,
+064cc43b42124fab9eec2aeb2ce20ef1,Tinian,
+064cc43b42124fab9eec2aeb2ce20ef1,Rota,
+064cc43b42124fab9eec2aeb2ce20ef1,Guam,
+ebc8da6062d04317a468b668aa05a333,Saipan,
+ebc8da6062d04317a468b668aa05a333,Tinian,
+ebc8da6062d04317a468b668aa05a333,Rota,
+ebc8da6062d04317a468b668aa05a333,Guam,
+4571aa0d2be54390b331bfc87c2f6be8,Republic of Palau,new island record
+4571aa0d2be54390b331bfc87c2f6be8,Pohnpei State,new island record
+4571aa0d2be54390b331bfc87c2f6be8,Kosrae State,new island record
+4571aa0d2be54390b331bfc87c2f6be8,Saipan,
+4571aa0d2be54390b331bfc87c2f6be8,Tinian,
+4571aa0d2be54390b331bfc87c2f6be8,Rota,
+4571aa0d2be54390b331bfc87c2f6be8,Guam,
+ce7569398335458cb6873bf17cce2638,Saipan,
+ce7569398335458cb6873bf17cce2638,Tinian,
+ce7569398335458cb6873bf17cce2638,Rota,
+ce7569398335458cb6873bf17cce2638,Guam,
+82330bde35074f599f3119454a1082f1,Republic of Palau,
+82330bde35074f599f3119454a1082f1,Yap State,
+82330bde35074f599f3119454a1082f1,Chuuk State,
+ac89db12bd7b40eca9d190bfbc32b8be,Saipan,
+ac89db12bd7b40eca9d190bfbc32b8be,Tinian,
+ac89db12bd7b40eca9d190bfbc32b8be,Rota,
+ac89db12bd7b40eca9d190bfbc32b8be,Guam,
+d5820a940b5f4f2e99d122ec913da75a,Saipan,
+d5820a940b5f4f2e99d122ec913da75a,Tinian,
+d5820a940b5f4f2e99d122ec913da75a,Rota,
+d5820a940b5f4f2e99d122ec913da75a,Guam,
+11b4acbb79e049ccb4fa5d43ca52f456,Guam,
+010f9071d7824ac4b56788fb7ab858fa,Republic of Palau,
+010f9071d7824ac4b56788fb7ab858fa,Yap State,
+010f9071d7824ac4b56788fb7ab858fa,Chuuk State,
+010f9071d7824ac4b56788fb7ab858fa,Saipan,
+010f9071d7824ac4b56788fb7ab858fa,Tinian,
+010f9071d7824ac4b56788fb7ab858fa,Rota,
+010f9071d7824ac4b56788fb7ab858fa,Guam,
+219b8e67380a4eae8eabb6f82efacd3e,Republic of Palau,
+5276101f6acb4ca5beacb7dc73338322,Guam,
+fc67ceb5c2de4815bf9b1dfcad5bbbbe,Yap State,new island record
+fc67ceb5c2de4815bf9b1dfcad5bbbbe,Pohnpei State,new island record
+fc67ceb5c2de4815bf9b1dfcad5bbbbe,Guam,
+3b6c32480ab94eb28375cf2c051175df,Chuuk State,
+3b6c32480ab94eb28375cf2c051175df,Kosrae State,
+3b6c32480ab94eb28375cf2c051175df,Saipan,
+3b6c32480ab94eb28375cf2c051175df,Tinian,
+3b6c32480ab94eb28375cf2c051175df,Rota,
+3b6c32480ab94eb28375cf2c051175df,Guam,
+89b36c438b9f4616b461c5f15d27d9ab,Chuuk State,
+69deda6d595d48f6b654716e6b06336a,Republic of Palau,
+69deda6d595d48f6b654716e6b06336a,Yap State,new island record
+69deda6d595d48f6b654716e6b06336a,Chuuk State,
+69deda6d595d48f6b654716e6b06336a,Pohnpei State,new island record
+69deda6d595d48f6b654716e6b06336a,Kosrae State,new island record
+69deda6d595d48f6b654716e6b06336a,Saipan,
+69deda6d595d48f6b654716e6b06336a,Tinian,
+69deda6d595d48f6b654716e6b06336a,Rota,
+69deda6d595d48f6b654716e6b06336a,Guam,
+dd90de5b80054b42be14a0cbf883a5d7,Republic of Palau,
+dd90de5b80054b42be14a0cbf883a5d7,Yap State,
+dd90de5b80054b42be14a0cbf883a5d7,Chuuk State,
+dd90de5b80054b42be14a0cbf883a5d7,Pohnpei State,
+dd90de5b80054b42be14a0cbf883a5d7,Saipan,
+dd90de5b80054b42be14a0cbf883a5d7,Tinian,
+dd90de5b80054b42be14a0cbf883a5d7,Rota,
+dd90de5b80054b42be14a0cbf883a5d7,Guam,
+aa8d183098cb41f295be17b78763a2b0,Republic of Palau,
+aa8d183098cb41f295be17b78763a2b0,Yap State,new island record
+aa8d183098cb41f295be17b78763a2b0,Saipan,
+aa8d183098cb41f295be17b78763a2b0,Tinian,
+aa8d183098cb41f295be17b78763a2b0,Rota,
+aa8d183098cb41f295be17b78763a2b0,Guam,
+9c04bebde35b42658388827c10f989f4,Republic of Palau,
+9c04bebde35b42658388827c10f989f4,Yap State,
+9c04bebde35b42658388827c10f989f4,Chuuk State,
+9c04bebde35b42658388827c10f989f4,Pohnpei State,
+9c04bebde35b42658388827c10f989f4,Kosrae State,
+9c04bebde35b42658388827c10f989f4,Saipan,
+9c04bebde35b42658388827c10f989f4,Tinian,
+9c04bebde35b42658388827c10f989f4,Rota,
+9c04bebde35b42658388827c10f989f4,Guam,
+51bedea8f649487bad3db9f7641b1b94,Kosrae State,new island record
+51bedea8f649487bad3db9f7641b1b94,Saipan,new island record
+51bedea8f649487bad3db9f7641b1b94,Tinian,new island record
+51bedea8f649487bad3db9f7641b1b94,Rota,new island record
+51bedea8f649487bad3db9f7641b1b94,Guam,new island record
+fdeb931e7e3b43a0a5f8ed2457fd9e28,Mariana Islands,
+dc9125b4576a4feabb3035069657bdaa,Saipan,
+dc9125b4576a4feabb3035069657bdaa,Tinian,
+dc9125b4576a4feabb3035069657bdaa,Rota,
+dc9125b4576a4feabb3035069657bdaa,Guam,
+eec42b9f5eef4741a6301962697cb25e,Yap State,
+eec42b9f5eef4741a6301962697cb25e,Chuuk State,
+eec42b9f5eef4741a6301962697cb25e,Pohnpei State,
+eec42b9f5eef4741a6301962697cb25e,Kosrae State,
+eec42b9f5eef4741a6301962697cb25e,Saipan,
+eec42b9f5eef4741a6301962697cb25e,Tinian,
+eec42b9f5eef4741a6301962697cb25e,Rota,
+eec42b9f5eef4741a6301962697cb25e,Guam,
+fa186be66e564ee1a24d9d266e2fe354,Republic of Palau,
+fa186be66e564ee1a24d9d266e2fe354,Pohnpei State,
+fa186be66e564ee1a24d9d266e2fe354,Saipan,
+fa186be66e564ee1a24d9d266e2fe354,Tinian,
+fa186be66e564ee1a24d9d266e2fe354,Rota,
+fa186be66e564ee1a24d9d266e2fe354,Guam,
+3bd34302aefa48229e05a89a044b10a4,Saipan,
+1aa30591b5364ae1949c96098c69225e,Yap State,
+1aa30591b5364ae1949c96098c69225e,Chuuk State,
+1aa30591b5364ae1949c96098c69225e,Pohnpei State,
+1aa30591b5364ae1949c96098c69225e,Kosrae State,
+1aa30591b5364ae1949c96098c69225e,Saipan,
+1aa30591b5364ae1949c96098c69225e,Tinian,
+1aa30591b5364ae1949c96098c69225e,Rota,
+1aa30591b5364ae1949c96098c69225e,Guam,
+9a11c6cebcc8443191d65c681aafe558,Republic of Palau,new island record
+9a11c6cebcc8443191d65c681aafe558,Saipan,
+9a11c6cebcc8443191d65c681aafe558,Tinian,
+9a11c6cebcc8443191d65c681aafe558,Rota,
+9a11c6cebcc8443191d65c681aafe558,Guam,
+f8637387c8db45f1b55464e2935ea195,Saipan,
+f8637387c8db45f1b55464e2935ea195,Tinian,
+f8637387c8db45f1b55464e2935ea195,Rota,
+f8637387c8db45f1b55464e2935ea195,Guam,
+4767c33beffc44e6871a549228e775de,Republic of Palau,
+4767c33beffc44e6871a549228e775de,Saipan,
+4767c33beffc44e6871a549228e775de,Tinian,
+4767c33beffc44e6871a549228e775de,Rota,
+4767c33beffc44e6871a549228e775de,Guam,
+5347c40fcd82462dabc8ec5e92a692e3,Saipan,
+5347c40fcd82462dabc8ec5e92a692e3,Tinian,
+5347c40fcd82462dabc8ec5e92a692e3,Rota,
+5347c40fcd82462dabc8ec5e92a692e3,Guam,
+797149752ffb41e8ae12270fee120b2f,Guam,
+57d9164cbfdb43e8835a72e9a7dd4573,Saipan,
+57d9164cbfdb43e8835a72e9a7dd4573,Tinian,
+57d9164cbfdb43e8835a72e9a7dd4573,Rota,
+57d9164cbfdb43e8835a72e9a7dd4573,Guam,
+42217482f6e64e7db36fc23a553e87be,Republic of Palau,
+42217482f6e64e7db36fc23a553e87be,Chuuk State,
+42217482f6e64e7db36fc23a553e87be,Pohnpei State,
+42217482f6e64e7db36fc23a553e87be,Saipan,
+42217482f6e64e7db36fc23a553e87be,Tinian,
+42217482f6e64e7db36fc23a553e87be,Rota,
+812d25b7cb9f4623a28fff46b60e7642,Guam,
+bebd2d68f5ec441899d35aa1255c33ed,Republic of Palau,
+bebd2d68f5ec441899d35aa1255c33ed,Yap State,
+bebd2d68f5ec441899d35aa1255c33ed,Chuuk State,
+bebd2d68f5ec441899d35aa1255c33ed,Pohnpei State,
+bebd2d68f5ec441899d35aa1255c33ed,Saipan,
+bebd2d68f5ec441899d35aa1255c33ed,Tinian,
+bebd2d68f5ec441899d35aa1255c33ed,Rota,
+bebd2d68f5ec441899d35aa1255c33ed,Guam,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Republic of Palau,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Yap State,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Chuuk State,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Saipan,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Tinian,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Rota,
+f6ce7616b9ca4b37b609ae31dde8b6f9,Guam,
+20f345e3e7584b8fbfbe821c9933dde2,Saipan,
+20f345e3e7584b8fbfbe821c9933dde2,Tinian,
+20f345e3e7584b8fbfbe821c9933dde2,Rota,
+20f345e3e7584b8fbfbe821c9933dde2,Guam,
+31604965be3840b0852528c57c6dd92a,Republic of Palau,new island record
+31604965be3840b0852528c57c6dd92a,Saipan,
+31604965be3840b0852528c57c6dd92a,Tinian,
+31604965be3840b0852528c57c6dd92a,Rota,
+31604965be3840b0852528c57c6dd92a,Guam,
+94725aeab51e4776ab441a77277959e6,Pohnpei State,
+94725aeab51e4776ab441a77277959e6,Saipan,
+94725aeab51e4776ab441a77277959e6,Tinian,
+94725aeab51e4776ab441a77277959e6,Rota,
+94725aeab51e4776ab441a77277959e6,Guam,
+97ade7d44a9846f790f94b8ae7869c46,Yap State,new island record
+97ade7d44a9846f790f94b8ae7869c46,Guam,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Republic of Palau,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Yap State,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Saipan,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Tinian,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Rota,
+d9f6fc76d69f4c0497dce71a0d5e93ca,Guam,
+3c58c57cd9fb45a79372e4428e4157e1,Republic of Palau,
+3c58c57cd9fb45a79372e4428e4157e1,Chuuk State,
+3c58c57cd9fb45a79372e4428e4157e1,Saipan,
+3c58c57cd9fb45a79372e4428e4157e1,Tinian,
+3c58c57cd9fb45a79372e4428e4157e1,Rota,
+3c58c57cd9fb45a79372e4428e4157e1,Guam,
+94f59076e84b43c596bb03d8a73b6ec5,Guam,
+101f870b11664a3c9a9001d6c07c3a92,Republic of Palau,
+101f870b11664a3c9a9001d6c07c3a92,Saipan,
+101f870b11664a3c9a9001d6c07c3a92,Tinian,
+101f870b11664a3c9a9001d6c07c3a92,Rota,
+101f870b11664a3c9a9001d6c07c3a92,Guam,
+e72dd7e3e65140b6a8793c461ae1d334,Republic of Palau,
+e72dd7e3e65140b6a8793c461ae1d334,Yap State,
+e72dd7e3e65140b6a8793c461ae1d334,Chuuk State,
+e72dd7e3e65140b6a8793c461ae1d334,Pohnpei State,
+e72dd7e3e65140b6a8793c461ae1d334,Kosrae State,
+e72dd7e3e65140b6a8793c461ae1d334,Saipan,
+e72dd7e3e65140b6a8793c461ae1d334,Tinian,
+e72dd7e3e65140b6a8793c461ae1d334,Rota,
+e72dd7e3e65140b6a8793c461ae1d334,Guam,
+48c1915f1949490f92eb396e5009d8e9,Guam,
+12057a7ddcbd455a9e10bc86dd102c4a,Republic of Palau,
+12057a7ddcbd455a9e10bc86dd102c4a,Chuuk State,
+12057a7ddcbd455a9e10bc86dd102c4a,Guam,
+b15206d8e13441f8bace73df2518127b,Republic of Palau,
+898929e63a4b45659000c14211180642,Republic of Palau,
+898929e63a4b45659000c14211180642,Yap State,new island record
+898929e63a4b45659000c14211180642,Pohnpei State,new island record
+898929e63a4b45659000c14211180642,Saipan,
+898929e63a4b45659000c14211180642,Tinian,
+898929e63a4b45659000c14211180642,Rota,
+898929e63a4b45659000c14211180642,Guam,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Republic of Palau,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Yap State,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Pohnpei State,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Saipan,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Tinian,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Rota,
+ae06efedbe9649e1b0b71e41cd2c8cb1,Guam,
+40675bb5e0494153836dcf6dd0f1fafb,Yap State,
+40675bb5e0494153836dcf6dd0f1fafb,Pohnpei State,
+40675bb5e0494153836dcf6dd0f1fafb,Saipan,
+40675bb5e0494153836dcf6dd0f1fafb,Tinian,
+40675bb5e0494153836dcf6dd0f1fafb,Rota,
+40675bb5e0494153836dcf6dd0f1fafb,Guam,
+e83a53540e74428db47b66d68e1d0bb2,Pohnpei State,
+e83a53540e74428db47b66d68e1d0bb2,Guam,
+5ba06706422d45c79411d78fa21bde9e,Republic of Palau,
+5ba06706422d45c79411d78fa21bde9e,Yap State,
+5ba06706422d45c79411d78fa21bde9e,Chuuk State,
+5ba06706422d45c79411d78fa21bde9e,Pohnpei State,
+5ba06706422d45c79411d78fa21bde9e,Saipan,
+5ba06706422d45c79411d78fa21bde9e,Tinian,
+5ba06706422d45c79411d78fa21bde9e,Rota,
+5ba06706422d45c79411d78fa21bde9e,Guam,
+0eef4a301f2f4ee19318239a8ea4d18b,Republic of Palau,
+0eef4a301f2f4ee19318239a8ea4d18b,Yap State,
+0eef4a301f2f4ee19318239a8ea4d18b,Chuuk State,
+0eef4a301f2f4ee19318239a8ea4d18b,Pohnpei State,
+0eef4a301f2f4ee19318239a8ea4d18b,Kosrae State,
+0b0f265013744886931118745e61d058,Republic of Palau,
+0b0f265013744886931118745e61d058,Yap State,
+0b0f265013744886931118745e61d058,Chuuk State,
+0b0f265013744886931118745e61d058,Pohnpei State,
+0b0f265013744886931118745e61d058,Kosrae State,
+0b0f265013744886931118745e61d058,Guam,
+d7b95034ac724ad4951e097781529071,Republic of Palau,
+f3be5f2a3d7a4313b43d0ff029e6d351,Republic of Palau,
+f3be5f2a3d7a4313b43d0ff029e6d351,Pohnpei State,
+58ed3d86d6f7412084abed6c40f8be64,Republic of Palau,
+58ed3d86d6f7412084abed6c40f8be64,Yap State,
+58ed3d86d6f7412084abed6c40f8be64,Guam,
+b915d68dbacf44c79d69d8347a280c42,Guam,
+2f11c5390f2c46069c472b393ae18025,Guam,
+c8ce6e5f2abe464f8dcfacf50526af70,Guam,
+a0ffe0f6cb574779893cb6ce8d7352b1,Chuuk State,
+a0ffe0f6cb574779893cb6ce8d7352b1,Pohnpei State,
+a0ffe0f6cb574779893cb6ce8d7352b1,Kosrae State,
+a0ffe0f6cb574779893cb6ce8d7352b1,Saipan,
+a0ffe0f6cb574779893cb6ce8d7352b1,Tinian,
+a0ffe0f6cb574779893cb6ce8d7352b1,Rota,
+a0ffe0f6cb574779893cb6ce8d7352b1,Guam,
+3fc246a411d042a981e089ef68bc0117,Republic of Palau,
+3fc246a411d042a981e089ef68bc0117,Yap State,
+2b6d685b51ec4f40aec599c6ebe087c1,Republic of Palau,
+d7146f9252014a3598a83add440b785b,Republic of Palau,
+d7146f9252014a3598a83add440b785b,Yap State,
+d7146f9252014a3598a83add440b785b,Chuuk State,
+d7146f9252014a3598a83add440b785b,Pohnpei State,
+d7146f9252014a3598a83add440b785b,Kosrae State,
+75d30179a97849fa8fe727dfb8398503,Republic of Palau,
+75d30179a97849fa8fe727dfb8398503,Guam,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Republic of Palau,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Chuuk State,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Saipan,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Tinian,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Rota,
+ea3d1e3b65ea4cd3a943226b9eb393ee,Guam,
+ab5c0fd0aa5f4954a56eff73a669ac49,Republic of Palau,
+ab5c0fd0aa5f4954a56eff73a669ac49,Yap State,new island record
+ab5c0fd0aa5f4954a56eff73a669ac49,Pohnpei State,
+ab5c0fd0aa5f4954a56eff73a669ac49,Kosrae State,new island record
+7052766edb7b480c9317d2d2f3326878,Pohnpei State,
+f1f8abc5c5d742bb97ed16907c7a80ce,Republic of Palau,
+f1f8abc5c5d742bb97ed16907c7a80ce,Chuuk State,
+f1f8abc5c5d742bb97ed16907c7a80ce,Saipan,
+f1f8abc5c5d742bb97ed16907c7a80ce,Tinian,
+f1f8abc5c5d742bb97ed16907c7a80ce,Rota,
+f1f8abc5c5d742bb97ed16907c7a80ce,Guam,
+056e823784a74508ae5ef10a9d2d745f,Guam,
+2ee1e1c91418425e9b3a948e5afec013,Kosrae State,
+65dd3f138c7940eb932ded62b3545850,Republic of Palau,
+970468e377d14619ac1e90de73ad64dc,Republic of Palau,
+970468e377d14619ac1e90de73ad64dc,Chuuk State,
+970468e377d14619ac1e90de73ad64dc,Guam,
+df41adef212b4be29c5208f1010845fc,Guam,
+7a3b90f7f2604924a9c7aaa4ff13ea24,Chuuk State,
+ed256d4758024b67915a49531991c1d4,Chuuk State,
+ed256d4758024b67915a49531991c1d4,Pohnpei State,
+a0b8695ea362404ba4e2984d630bb1d4,Republic of Palau,
+a0b8695ea362404ba4e2984d630bb1d4,Yap State,new island record
+a0b8695ea362404ba4e2984d630bb1d4,Saipan,
+a0b8695ea362404ba4e2984d630bb1d4,Tinian,
+a0b8695ea362404ba4e2984d630bb1d4,Rota,
+a0b8695ea362404ba4e2984d630bb1d4,Guam,
+14efb558859e4a2fbcc246a0ff865a27,Saipan,
+14efb558859e4a2fbcc246a0ff865a27,Tinian,
+14efb558859e4a2fbcc246a0ff865a27,Rota,
+14efb558859e4a2fbcc246a0ff865a27,Guam,
+519c5b0ae5814e4d9b3728bbbc1e49f3,Saipan,
+519c5b0ae5814e4d9b3728bbbc1e49f3,Tinian,
+519c5b0ae5814e4d9b3728bbbc1e49f3,Rota,
+519c5b0ae5814e4d9b3728bbbc1e49f3,Guam,
+4da9c2ad918442c5a803d8e1a74166f9,Republic of Palau,
+4da9c2ad918442c5a803d8e1a74166f9,Saipan,
+4da9c2ad918442c5a803d8e1a74166f9,Tinian,
+4da9c2ad918442c5a803d8e1a74166f9,Rota,
+4da9c2ad918442c5a803d8e1a74166f9,Guam,
+caa48e96def94b7294b950381fed2c8e,Republic of Palau,
+caa48e96def94b7294b950381fed2c8e,Guam,
+7138fd97430347cfb30981a565cd7f11,Republic of Palau,new island record
+7138fd97430347cfb30981a565cd7f11,Saipan,
+7138fd97430347cfb30981a565cd7f11,Tinian,
+7138fd97430347cfb30981a565cd7f11,Rota,
+7138fd97430347cfb30981a565cd7f11,Guam,
+839fc372506c4b22ae8aedf1087c192b,Republic of Palau,
+839fc372506c4b22ae8aedf1087c192b,Saipan,
+839fc372506c4b22ae8aedf1087c192b,Tinian,
+839fc372506c4b22ae8aedf1087c192b,Rota,
+839fc372506c4b22ae8aedf1087c192b,Guam,
+ccc4deff98d247888c11b092d82b9f39,Saipan,
+ccc4deff98d247888c11b092d82b9f39,Tinian,
+ccc4deff98d247888c11b092d82b9f39,Rota,
+ccc4deff98d247888c11b092d82b9f39,Guam,
+125b6f0969154948beed00957d5f117d,Guam,
+fd0b237754c44aa9a55ca71dd9b00d16,Republic of Palau,
+fd0b237754c44aa9a55ca71dd9b00d16,Yap State,
+fd0b237754c44aa9a55ca71dd9b00d16,Chuuk State,
+fd0b237754c44aa9a55ca71dd9b00d16,Kosrae State,
+fd0b237754c44aa9a55ca71dd9b00d16,Saipan,
+fd0b237754c44aa9a55ca71dd9b00d16,Tinian,
+fd0b237754c44aa9a55ca71dd9b00d16,Rota,
+fd0b237754c44aa9a55ca71dd9b00d16,Guam,
+519e9b80bc78446b9fd1ab66d66a4042,Chuuk State,new island record
+519e9b80bc78446b9fd1ab66d66a4042,Pohnpei State,new island record
+519e9b80bc78446b9fd1ab66d66a4042,Guam,
+92abb396bc114b739ff7c7cf2bdee664,Republic of Palau,
+92abb396bc114b739ff7c7cf2bdee664,Chuuk State,
+92abb396bc114b739ff7c7cf2bdee664,Pohnpei State,
+92abb396bc114b739ff7c7cf2bdee664,Kosrae State,
+92abb396bc114b739ff7c7cf2bdee664,Saipan,
+92abb396bc114b739ff7c7cf2bdee664,Tinian,
+92abb396bc114b739ff7c7cf2bdee664,Rota,
+92abb396bc114b739ff7c7cf2bdee664,Guam,
+8e047a99f2124c238a497d085510a8dd,Republic of Palau,
+14713e9371134a6282c9ae796fb7a2ee,Republic of Palau,
+135372e44d6348efa478d565b5860bfc,Chuuk State,
+135372e44d6348efa478d565b5860bfc,Pohnpei State,
+135372e44d6348efa478d565b5860bfc,Kosrae State,
+135372e44d6348efa478d565b5860bfc,Saipan,
+135372e44d6348efa478d565b5860bfc,Tinian,
+135372e44d6348efa478d565b5860bfc,Rota,
+135372e44d6348efa478d565b5860bfc,Guam,
+74790aac7be0475ca1d29c3d710669e4,Guam,
+db142c20388d41d096971834c0c2cd27,Chuuk State,
+db142c20388d41d096971834c0c2cd27,Saipan,
+db142c20388d41d096971834c0c2cd27,Tinian,
+db142c20388d41d096971834c0c2cd27,Rota,
+db142c20388d41d096971834c0c2cd27,Guam,
+a8bf1d56ff6144e6bdfedfc18125b65c,Saipan,
+a8bf1d56ff6144e6bdfedfc18125b65c,Tinian,
+a8bf1d56ff6144e6bdfedfc18125b65c,Rota,
+a8bf1d56ff6144e6bdfedfc18125b65c,Guam,
+7b7e14f767a2452c8a3422078af4b59a,Pohnpei State,
+7b7e14f767a2452c8a3422078af4b59a,Kosrae State,
+99c812f2dab948c6b72aef1d7e5d76b9,Yap State,
+99c812f2dab948c6b72aef1d7e5d76b9,Chuuk State,
+99c812f2dab948c6b72aef1d7e5d76b9,Saipan,
+99c812f2dab948c6b72aef1d7e5d76b9,Tinian,
+99c812f2dab948c6b72aef1d7e5d76b9,Rota,
+eeac1582f5004b9984c80b0b36b2de21,Republic of Palau,
+eeac1582f5004b9984c80b0b36b2de21,Guam,
+15db1890ad524c11a8f70f67cec1147f,Chuuk State,
+15db1890ad524c11a8f70f67cec1147f,Kosrae State,
+00b0c08a48e04bcea23fc3371f7e5acd,Republic of Palau,
+5795e4a8f77843c285e2036a6daa3c33,Republic of Palau,
+b2cc61bf0e754acabf1e806c5c8d538e,Republic of Palau,
+c484b53cd98b435983d214d6df609521,Republic of Palau,
+0f271443b941429f8d430a24283031a4,Republic of Palau,new island record
+0f271443b941429f8d430a24283031a4,Pohnpei State,new island record
+0f271443b941429f8d430a24283031a4,Saipan,
+0f271443b941429f8d430a24283031a4,Tinian,
+0f271443b941429f8d430a24283031a4,Rota,
+0f271443b941429f8d430a24283031a4,Guam,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Republic of Palau,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Yap State,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Chuuk State,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Saipan,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Tinian,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Rota,
+4c9fc88c22ba4a4fb10d678f9cec8ee3,Guam,
+231cf67b5ea54426ad6a275369de7b1d,Republic of Palau,
+6d0023f708444ff7b5ded6a90f964bcd,Chuuk State,
+6d0023f708444ff7b5ded6a90f964bcd,Pohnpei State,
+6d0023f708444ff7b5ded6a90f964bcd,Kosrae State,
+6d0023f708444ff7b5ded6a90f964bcd,Saipan,
+6d0023f708444ff7b5ded6a90f964bcd,Tinian,
+6d0023f708444ff7b5ded6a90f964bcd,Rota,
+6d0023f708444ff7b5ded6a90f964bcd,Guam,
+ccf6673e9cb74e71abcba5b22b115f7e,Yap State,
+ccf6673e9cb74e71abcba5b22b115f7e,Saipan,
+ccf6673e9cb74e71abcba5b22b115f7e,Tinian,
+ccf6673e9cb74e71abcba5b22b115f7e,Rota,
+ccf6673e9cb74e71abcba5b22b115f7e,Guam,
+d3e144f71d0241118d4ce501a2ec5a1f,Pohnpei State,
+d3e144f71d0241118d4ce501a2ec5a1f,Saipan,
+d3e144f71d0241118d4ce501a2ec5a1f,Tinian,
+d3e144f71d0241118d4ce501a2ec5a1f,Rota,
+d3e144f71d0241118d4ce501a2ec5a1f,Guam,
+7e58af451a344680acf43fc47ced530e,Republic of Palau,
+7e58af451a344680acf43fc47ced530e,Yap State,
+7e58af451a344680acf43fc47ced530e,Pohnpei State,
+7e58af451a344680acf43fc47ced530e,Kosrae State,
+7e58af451a344680acf43fc47ced530e,Guam,
+f4e1a7510bf34d83a0060481a475cbba,Guam,
+777740dd976c4681abfd46c90825de70,Republic of Palau,
+777740dd976c4681abfd46c90825de70,Yap State,
+777740dd976c4681abfd46c90825de70,Chuuk State,
+777740dd976c4681abfd46c90825de70,Pohnpei State,
+777740dd976c4681abfd46c90825de70,Kosrae State,
+777740dd976c4681abfd46c90825de70,Saipan,
+777740dd976c4681abfd46c90825de70,Tinian,
+777740dd976c4681abfd46c90825de70,Rota,
+777740dd976c4681abfd46c90825de70,Guam,
+466e4e7d31cc4551b141761daaa9c5be,Kosrae State,
+466e4e7d31cc4551b141761daaa9c5be,Saipan,new island record
+466e4e7d31cc4551b141761daaa9c5be,Tinian,new island record
+466e4e7d31cc4551b141761daaa9c5be,Rota,new island record
+466e4e7d31cc4551b141761daaa9c5be,Guam,new island record
+c5cdf730db2d4f5d98bab59848416089,Guam,
+24841a9314864e4f99e53b887130d5c1,Yap State,
+24841a9314864e4f99e53b887130d5c1,Chuuk State,
+24841a9314864e4f99e53b887130d5c1,Pohnpei State,
+24841a9314864e4f99e53b887130d5c1,Kosrae State,
+24841a9314864e4f99e53b887130d5c1,Saipan,
+24841a9314864e4f99e53b887130d5c1,Tinian,
+24841a9314864e4f99e53b887130d5c1,Rota,
+24841a9314864e4f99e53b887130d5c1,Guam,
+540aea8941ce4304a1c7cd657235c3a7,Republic of Palau,
+540aea8941ce4304a1c7cd657235c3a7,Chuuk State,
+540aea8941ce4304a1c7cd657235c3a7,Pohnpei State,
+540aea8941ce4304a1c7cd657235c3a7,Kosrae State,
+540aea8941ce4304a1c7cd657235c3a7,Saipan,
+540aea8941ce4304a1c7cd657235c3a7,Tinian,
+540aea8941ce4304a1c7cd657235c3a7,Rota,
+540aea8941ce4304a1c7cd657235c3a7,Guam,
+96bb411c3135498fb01148016dbae3dc,Guam,
+e8190c678a344adcb5adee313a51ab55,Republic of Palau,
+e8190c678a344adcb5adee313a51ab55,Yap State,
+e8190c678a344adcb5adee313a51ab55,Chuuk State,
+e8190c678a344adcb5adee313a51ab55,Pohnpei State,
+e8190c678a344adcb5adee313a51ab55,Saipan,
+e8190c678a344adcb5adee313a51ab55,Tinian,
+e8190c678a344adcb5adee313a51ab55,Rota,
+e8190c678a344adcb5adee313a51ab55,Guam,
+bbc7ba8d5b234dd08de152d64e3e1ffc,Republic of Palau,
+6dd19c77e0ba4cb4badbfe1250d8b0e7,Chuuk State,new island record
+6dd19c77e0ba4cb4badbfe1250d8b0e7,Pohnpei State,new island record
+6dd19c77e0ba4cb4badbfe1250d8b0e7,Kosrae State,
+6dd19c77e0ba4cb4badbfe1250d8b0e7,Guam,
+b99aa7819e8b4fd98725a1897141f9cb,Republic of Palau,
+6dfa5377b4a34a26b1d323832e41a143,Saipan,
+6dfa5377b4a34a26b1d323832e41a143,Tinian,
+6dfa5377b4a34a26b1d323832e41a143,Rota,
+6dfa5377b4a34a26b1d323832e41a143,Guam,
+fa78b5d514344f5da0adc7de7351e3e9,Chuuk State,
+fa78b5d514344f5da0adc7de7351e3e9,Pohnpei State,
+9702fcba89b047afafffcad25ff058c3,Pohnpei State,
+9702fcba89b047afafffcad25ff058c3,Saipan,
+f2968d50bf6b489bbce05cc51ee2744c,Chuuk State,
+f2968d50bf6b489bbce05cc51ee2744c,Pohnpei State,
+f2968d50bf6b489bbce05cc51ee2744c,Saipan,
+f2968d50bf6b489bbce05cc51ee2744c,Tinian,
+f2968d50bf6b489bbce05cc51ee2744c,Rota,
+f2968d50bf6b489bbce05cc51ee2744c,Guam,
+b10fe1569a7b402595dd8d16f21acf5f,Republic of Palau,
+b10fe1569a7b402595dd8d16f21acf5f,Chuuk State,
+b10fe1569a7b402595dd8d16f21acf5f,Saipan,
+b10fe1569a7b402595dd8d16f21acf5f,Tinian,
+b10fe1569a7b402595dd8d16f21acf5f,Rota,
+b10fe1569a7b402595dd8d16f21acf5f,Guam,
+d15e4dc80072477c8626cd75b6ba8caf,Republic of Palau,
+d15e4dc80072477c8626cd75b6ba8caf,Chuuk State,
+d15e4dc80072477c8626cd75b6ba8caf,Pohnpei State,
+d15e4dc80072477c8626cd75b6ba8caf,Kosrae State,
+d15e4dc80072477c8626cd75b6ba8caf,Saipan,
+d15e4dc80072477c8626cd75b6ba8caf,Tinian,
+d15e4dc80072477c8626cd75b6ba8caf,Rota,
+d15e4dc80072477c8626cd75b6ba8caf,Guam,
+e0923e8ea52e4d4c924936815a9ca7fd,Guam,
+a54bae5c2340491da6541c587f87c78d,Guam,
+8b1223a9a6ee46afbe656ef771fbd1e9,Guam,
+522f840b556543bf8c4a0d99ea84ecb7,Saipan,
+522f840b556543bf8c4a0d99ea84ecb7,Tinian,
+522f840b556543bf8c4a0d99ea84ecb7,Rota,
+522f840b556543bf8c4a0d99ea84ecb7,Guam,
+350a91fa220c496787c02a5ef7a8a973,Saipan,
+350a91fa220c496787c02a5ef7a8a973,Tinian,
+350a91fa220c496787c02a5ef7a8a973,Rota,
+350a91fa220c496787c02a5ef7a8a973,Guam,
+240d7e2dcfae4ed38bb79f34b320ee3c,Republic of Palau,
+240d7e2dcfae4ed38bb79f34b320ee3c,Guam,
+a5712d02a7cf4763ac2676912fcaa021,Republic of Palau,
+a5712d02a7cf4763ac2676912fcaa021,Yap State,
+a5712d02a7cf4763ac2676912fcaa021,Mariana Islands,
+a4208f9a5914405f9bdb6320de8e514d,Republic of Palau,
+a4208f9a5914405f9bdb6320de8e514d,Saipan,
+a4208f9a5914405f9bdb6320de8e514d,Tinian,
+a4208f9a5914405f9bdb6320de8e514d,Rota,
+a4208f9a5914405f9bdb6320de8e514d,Guam,
+e17998d20e23445a8534e43419bc4937,Guam,
+89d835cba33e448b95bcd7df261e345b,Guam,
+d4bb31d4de7e43bab47c44bff5822182,Republic of Palau,
+d4bb31d4de7e43bab47c44bff5822182,Yap State,
+d4bb31d4de7e43bab47c44bff5822182,Chuuk State,
+d4bb31d4de7e43bab47c44bff5822182,Saipan,
+d4bb31d4de7e43bab47c44bff5822182,Tinian,
+d4bb31d4de7e43bab47c44bff5822182,Rota,
+d4bb31d4de7e43bab47c44bff5822182,Guam,
+a155aa292b224f35a415febd382a49ee,Guam,
+ba21f2192d084b7ba10191f3e8d4a982,Republic of Palau,
+60582200ab5140b78c2b34fff13cb4cf,Chuuk State,
+c2f27c0d5e724156b0548363a1894a86,Republic of Palau,
+9a933624fd7745749e71d66497adad89,Republic of Palau,
+9a933624fd7745749e71d66497adad89,Yap State,
+9a933624fd7745749e71d66497adad89,Saipan,
+9a933624fd7745749e71d66497adad89,Tinian,
+9a933624fd7745749e71d66497adad89,Rota,
+9a933624fd7745749e71d66497adad89,Guam,
+93fbbe5348ae4b75abaf151da55e1089,Yap State,
+93fbbe5348ae4b75abaf151da55e1089,Saipan,
+93fbbe5348ae4b75abaf151da55e1089,Tinian,
+93fbbe5348ae4b75abaf151da55e1089,Rota,
+93fbbe5348ae4b75abaf151da55e1089,Guam,
+ca57386786f14170a32c6818ee739e21,Republic of Palau,new island record
+ca57386786f14170a32c6818ee739e21,Saipan,
+ca57386786f14170a32c6818ee739e21,Tinian,
+ca57386786f14170a32c6818ee739e21,Rota,
+ca57386786f14170a32c6818ee739e21,Guam,
+2a4e8321f6f44996a200d28cb3a69c52,Chuuk State,
+1a977e5c55f044ed8741172573988a15,Guam,
+e450c2ffead04332a62d4984af95e263,Chuuk State,
+e450c2ffead04332a62d4984af95e263,Pohnpei State,
+e450c2ffead04332a62d4984af95e263,Guam,
+bebd50d2a13e4cd5891a1d3c548449f1,Republic of Palau,
+bebd50d2a13e4cd5891a1d3c548449f1,Saipan,
+bebd50d2a13e4cd5891a1d3c548449f1,Tinian,
+bebd50d2a13e4cd5891a1d3c548449f1,Rota,
+bebd50d2a13e4cd5891a1d3c548449f1,Guam,
+f24bf56faca5493399f0147828c6f2a9,Guam,
+17d6fd0ccae0409fafbe5620001e87ef,Guam,
+62db2e8db69d42199acefde07ea30f19,Saipan,
+62db2e8db69d42199acefde07ea30f19,Tinian,
+62db2e8db69d42199acefde07ea30f19,Rota,
+62db2e8db69d42199acefde07ea30f19,Guam,
+e746b57870474bc18e07ef39e28c2d9f,Republic of Palau,
+e746b57870474bc18e07ef39e28c2d9f,Yap State,
+0506cea30d054cecb0c735914f912647,Saipan,
+528d607a59764e8eb4483b3389f8858d,Guam,
+00a53b065ccd4ea7b2d1d9044b6ff39a,Yap State,
+00a53b065ccd4ea7b2d1d9044b6ff39a,Kosrae State,
+c129e1b271304caf950a6485509756df,Kosrae State,
+1d9b0d252efb454ea7fe88d19b18545c,Saipan,
+1d9b0d252efb454ea7fe88d19b18545c,Tinian,
+1d9b0d252efb454ea7fe88d19b18545c,Rota,
+ca3de76c2d05441c82a1b97518985eba,Guam,
+4143596420004d559ee270fbf5b0c6e3,Saipan,
+4143596420004d559ee270fbf5b0c6e3,Tinian,
+4143596420004d559ee270fbf5b0c6e3,Rota,
+4143596420004d559ee270fbf5b0c6e3,Guam,
+180bb00c2e7445a0872849c6e1bc7186,Republic of Palau,
+180bb00c2e7445a0872849c6e1bc7186,Saipan,
+180bb00c2e7445a0872849c6e1bc7186,Tinian,
+180bb00c2e7445a0872849c6e1bc7186,Rota,
+180bb00c2e7445a0872849c6e1bc7186,Guam,
+176e55085bc242c8a3a3045b06b605cb,Republic of Palau,
+176e55085bc242c8a3a3045b06b605cb,Pohnpei State,new island record
+176e55085bc242c8a3a3045b06b605cb,Guam,
+9b9a2b1e533443bba4658a5ab164a3ed,Guam,
+6eb51782a92f4f9ca4281bd06086ff69,Republic of Palau,
+10f06b1ca6f7471a97c69b448c277420,Guam,
+d7b0a2a9a6174bda9c28c6ee9d60d218,Chuuk State,
+d7b0a2a9a6174bda9c28c6ee9d60d218,Pohnpei State,
+2ed53fd4285d4457907f2a1abb76f2a6,Saipan,
+2ed53fd4285d4457907f2a1abb76f2a6,Tinian,
+2ed53fd4285d4457907f2a1abb76f2a6,Rota,
+2ed53fd4285d4457907f2a1abb76f2a6,Guam,
+d9e6c00cdb2944a294fb4613d2ebfef2,Kosrae State,
+d9e6c00cdb2944a294fb4613d2ebfef2,Saipan,
+d9e6c00cdb2944a294fb4613d2ebfef2,Tinian,
+d9e6c00cdb2944a294fb4613d2ebfef2,Rota,
+d9e6c00cdb2944a294fb4613d2ebfef2,Guam,
+5f3744cb2ca747888b6d783675e5a9a4,Guam,
+d03d52aed4994be7b67c09ee929741d0,Saipan,
+d03d52aed4994be7b67c09ee929741d0,Tinian,
+d03d52aed4994be7b67c09ee929741d0,Rota,
+d03d52aed4994be7b67c09ee929741d0,Guam,
+7d23725f5d334abc8bc33ab615891a73,Guam,
+487d8738e450415daaad262bb8f956e6,Guam,
+c23fe3d6a4fa435eacc4a31a14dc3e06,Guam,
+37686d2704ca415b9c9021c89daf0e53,Saipan,
+37686d2704ca415b9c9021c89daf0e53,Tinian,
+37686d2704ca415b9c9021c89daf0e53,Rota,
+eb468c2d56fa49258fe08e55bd92db4b,Guam,
+0c7f45cfdda744649fdbfef23ed61be7,Guam,
+9da974d3b59447eca9e092529d2c25fd,Saipan,
+9da974d3b59447eca9e092529d2c25fd,Tinian,
+9da974d3b59447eca9e092529d2c25fd,Rota,
+9da974d3b59447eca9e092529d2c25fd,Guam,
+3cb6ac11623c4026a74672067475cadc,Pohnpei State,
+f370f7a9267047a58aa88b3f136f9cc8,Guam,
+42d365bfaec84ddebdfc1591debd4d24,Yap State,new island record
+42d365bfaec84ddebdfc1591debd4d24,Chuuk State,
+42d365bfaec84ddebdfc1591debd4d24,Pohnpei State,new island record
+42d365bfaec84ddebdfc1591debd4d24,Kosrae State,new island record
+42d365bfaec84ddebdfc1591debd4d24,Saipan,
+42d365bfaec84ddebdfc1591debd4d24,Tinian,
+42d365bfaec84ddebdfc1591debd4d24,Rota,
+42d365bfaec84ddebdfc1591debd4d24,Guam,
+2b984f9d528541019e3474ef3943495f,Pohnpei State,new island record
+72bf65cb92084c7bb8369e1ad930376f,Republic of Palau,
+72bf65cb92084c7bb8369e1ad930376f,Chuuk State,new island record
+72bf65cb92084c7bb8369e1ad930376f,Pohnpei State,
+2acc6321150340f7831524a7456bbbbd,Yap State,new island record
+2acc6321150340f7831524a7456bbbbd,Chuuk State,
+2acc6321150340f7831524a7456bbbbd,Pohnpei State,
+2acc6321150340f7831524a7456bbbbd,Saipan,
+6b1db04fe36345e0a7ec81c557d29a16,Republic of Palau,
+6b1db04fe36345e0a7ec81c557d29a16,Pohnpei State,
+0a4be04aa83f4948941e46720a45d442,Kosrae State,
+13941d00d1f5439fad2da75c752d4811,Saipan,
+13941d00d1f5439fad2da75c752d4811,Tinian,
+13941d00d1f5439fad2da75c752d4811,Rota,
+13941d00d1f5439fad2da75c752d4811,Guam,
+e9a555b121f543ea8638cb448c1b8c62,Kosrae State,
+c43e4c6de26f4996ac55f706f0bfab5d,Guam,
+d7e5f1a9d26c487fb90186777642e4b9,Republic of Palau,
+d7e5f1a9d26c487fb90186777642e4b9,Yap State,new island record
+d7e5f1a9d26c487fb90186777642e4b9,Saipan,
+d7e5f1a9d26c487fb90186777642e4b9,Tinian,
+d7e5f1a9d26c487fb90186777642e4b9,Rota,
+d7e5f1a9d26c487fb90186777642e4b9,Guam,
+af43d66af7bc4f7eabc230919a193882,Republic of Palau,
+af43d66af7bc4f7eabc230919a193882,Yap State,
+af43d66af7bc4f7eabc230919a193882,Saipan,
+af43d66af7bc4f7eabc230919a193882,Tinian,
+af43d66af7bc4f7eabc230919a193882,Rota,
+af43d66af7bc4f7eabc230919a193882,Guam,
+920883a09710426095aa1022fb73d5f3,Republic of Palau,
+920883a09710426095aa1022fb73d5f3,Yap State,
+920883a09710426095aa1022fb73d5f3,Saipan,
+920883a09710426095aa1022fb73d5f3,Tinian,
+920883a09710426095aa1022fb73d5f3,Rota,
+7507740701a54eb0a7e38a0fa46faec2,Guam,
+f1a929830df04f538a49225edce2ba39,Guam,
+1ef2f8970be540bf8553a5d216c89789,Republic of Palau,
+1ef2f8970be540bf8553a5d216c89789,Yap State,
+1ef2f8970be540bf8553a5d216c89789,Pohnpei State,
+1ef2f8970be540bf8553a5d216c89789,Saipan,
+1ef2f8970be540bf8553a5d216c89789,Tinian,
+1ef2f8970be540bf8553a5d216c89789,Rota,
+1ef2f8970be540bf8553a5d216c89789,Guam,
+1aa273809544409c8dba8975ca6f8aeb,Republic of Palau,
+1aa273809544409c8dba8975ca6f8aeb,Yap State,
+1aa273809544409c8dba8975ca6f8aeb,Chuuk State,
+1aa273809544409c8dba8975ca6f8aeb,Pohnpei State,
+1aa273809544409c8dba8975ca6f8aeb,Saipan,
+1aa273809544409c8dba8975ca6f8aeb,Tinian,
+1aa273809544409c8dba8975ca6f8aeb,Rota,
+1aa273809544409c8dba8975ca6f8aeb,Guam,
+dd453527aeda487492c08d236ddd0cff,Republic of Palau,
+dd453527aeda487492c08d236ddd0cff,Yap State,
+dd453527aeda487492c08d236ddd0cff,Chuuk State,
+dd453527aeda487492c08d236ddd0cff,Pohnpei State,
+dd453527aeda487492c08d236ddd0cff,Saipan,
+dd453527aeda487492c08d236ddd0cff,Tinian,
+dd453527aeda487492c08d236ddd0cff,Rota,
+dd453527aeda487492c08d236ddd0cff,Guam,
+09c36f1e6a5743ef8acaaf37931e65d3,Republic of Palau,
+09c36f1e6a5743ef8acaaf37931e65d3,Yap State,
+09c36f1e6a5743ef8acaaf37931e65d3,Saipan,
+09c36f1e6a5743ef8acaaf37931e65d3,Tinian,
+09c36f1e6a5743ef8acaaf37931e65d3,Rota,
+09c36f1e6a5743ef8acaaf37931e65d3,Guam,
+e31d0a64b60d474096a7443702d7eab7,Republic of Palau,
+e31d0a64b60d474096a7443702d7eab7,Yap State,
+e31d0a64b60d474096a7443702d7eab7,Chuuk State,
+e31d0a64b60d474096a7443702d7eab7,Pohnpei State,
+e31d0a64b60d474096a7443702d7eab7,Saipan,
+e31d0a64b60d474096a7443702d7eab7,Tinian,
+e31d0a64b60d474096a7443702d7eab7,Rota,
+e31d0a64b60d474096a7443702d7eab7,Guam,
+da9aee52fc4142f1841cab502b1a656a,Republic of Palau,
+da9aee52fc4142f1841cab502b1a656a,Yap State,
+da9aee52fc4142f1841cab502b1a656a,Saipan,
+da9aee52fc4142f1841cab502b1a656a,Tinian,
+da9aee52fc4142f1841cab502b1a656a,Rota,
+da9aee52fc4142f1841cab502b1a656a,Guam,
+dcab2d69764242d8b874df3736661d11,Republic of Palau,
+dcab2d69764242d8b874df3736661d11,Saipan,
+dcab2d69764242d8b874df3736661d11,Tinian,
+dcab2d69764242d8b874df3736661d11,Rota,
+dcab2d69764242d8b874df3736661d11,Guam,
+b857c38045b7462a80cdf5605c6d7c34,Republic of Palau,
+b857c38045b7462a80cdf5605c6d7c34,Yap State,
+b857c38045b7462a80cdf5605c6d7c34,Chuuk State,
+b857c38045b7462a80cdf5605c6d7c34,Pohnpei State,
+b857c38045b7462a80cdf5605c6d7c34,Kosrae State,
+b857c38045b7462a80cdf5605c6d7c34,Saipan,
+b857c38045b7462a80cdf5605c6d7c34,Tinian,
+b857c38045b7462a80cdf5605c6d7c34,Rota,
+b857c38045b7462a80cdf5605c6d7c34,Guam,
+d420f0d9c3594e30aa0eab06af13a6fc,Chuuk State,
+d420f0d9c3594e30aa0eab06af13a6fc,Pohnpei State,
+d420f0d9c3594e30aa0eab06af13a6fc,Kosrae State,
+d420f0d9c3594e30aa0eab06af13a6fc,Saipan,
+d420f0d9c3594e30aa0eab06af13a6fc,Tinian,
+d420f0d9c3594e30aa0eab06af13a6fc,Rota,
+d420f0d9c3594e30aa0eab06af13a6fc,Guam,
+6c143f3beec04c8dba1e38485808e111,Republic of Palau,new island record
+6c143f3beec04c8dba1e38485808e111,Saipan,
+6c143f3beec04c8dba1e38485808e111,Tinian,
+6c143f3beec04c8dba1e38485808e111,Rota,
+d2933b27baaa42c181c4a5abb1c8b8ea,Saipan,
+d2933b27baaa42c181c4a5abb1c8b8ea,Tinian,
+d2933b27baaa42c181c4a5abb1c8b8ea,Rota,
+d2933b27baaa42c181c4a5abb1c8b8ea,Guam,
+5f1d296999c54953848bb2174551e3a1,Saipan,
+5f1d296999c54953848bb2174551e3a1,Tinian,
+5f1d296999c54953848bb2174551e3a1,Rota,
+5f1d296999c54953848bb2174551e3a1,Guam,
+8fd5d707b87a437ca184b600065032a9,Yap State,new island record
+8fd5d707b87a437ca184b600065032a9,Chuuk State,new island record
+8fd5d707b87a437ca184b600065032a9,Pohnpei State,new island record
+8fd5d707b87a437ca184b600065032a9,Kosrae State,new island record
+695bff7afef74cdd995b75e90af0c394,Chuuk State,
+695bff7afef74cdd995b75e90af0c394,Pohnpei State,
+695bff7afef74cdd995b75e90af0c394,Kosrae State,
+bd10e968b4f24eb3be340b83e37a9366,Saipan,
+bd10e968b4f24eb3be340b83e37a9366,Tinian,
+bd10e968b4f24eb3be340b83e37a9366,Rota,
+4224889cbb4948df860238110b989b87,Guam,
+6ab18bef7ff742208935e7fcd204460b,Republic of Palau,
+afe98b9a50ec44518c1dc0ba7311c0bc,Guam,
+deef9c829cc04a3da39a6385a25592e2,Pohnpei State,
+deef9c829cc04a3da39a6385a25592e2,Guam,
+3ad0f34974c448a08e65bc4acaf74fd6,Republic of Palau,
+cb11c01f864e4d8ca49529c5b4726587,Chuuk State,new island record
+cb11c01f864e4d8ca49529c5b4726587,Pohnpei State,new island record
+cb11c01f864e4d8ca49529c5b4726587,Guam,
+2a6ef889698c400e8947f0ec0ca71dd4,Guam,
+a051653c7e56467197ca0e4075a3e86b,Saipan,
+a051653c7e56467197ca0e4075a3e86b,Tinian,
+a051653c7e56467197ca0e4075a3e86b,Rota,
+a051653c7e56467197ca0e4075a3e86b,Guam,
+01563a623e7e4383b00b92e2bf8c7ca1,Republic of Palau,
+01563a623e7e4383b00b92e2bf8c7ca1,Chuuk State,
+01563a623e7e4383b00b92e2bf8c7ca1,Pohnpei State,
+2a9229350ded409b87e50f2d78f50ea1,Republic of Palau,
+2a9229350ded409b87e50f2d78f50ea1,Yap State,
+2a9229350ded409b87e50f2d78f50ea1,Pohnpei State,
+2a9229350ded409b87e50f2d78f50ea1,Kosrae State,
+2a9229350ded409b87e50f2d78f50ea1,Saipan,
+2a9229350ded409b87e50f2d78f50ea1,Tinian,
+2a9229350ded409b87e50f2d78f50ea1,Rota,
+2a9229350ded409b87e50f2d78f50ea1,Guam,
+20823727991f44c28570074ebc0e3c3a,Republic of Palau,
+20823727991f44c28570074ebc0e3c3a,Yap State,
+20823727991f44c28570074ebc0e3c3a,Saipan,
+20823727991f44c28570074ebc0e3c3a,Tinian,
+20823727991f44c28570074ebc0e3c3a,Rota,
+20823727991f44c28570074ebc0e3c3a,Guam,
+28866c8e278142c292564957f9699b43,Republic of Palau,
+28866c8e278142c292564957f9699b43,Mariana Islands,
+667485c35b0c457a92d279b552b235a1,Guam,
+af66a91a2274407387199e6587492ae3,Saipan,
+af66a91a2274407387199e6587492ae3,Tinian,
+af66a91a2274407387199e6587492ae3,Rota,
+2c75ed87e8a240bbb50a0857a73eaac1,Saipan,
+2c75ed87e8a240bbb50a0857a73eaac1,Tinian,
+2c75ed87e8a240bbb50a0857a73eaac1,Rota,
+2c75ed87e8a240bbb50a0857a73eaac1,Guam,
+6ed4c73b123b4caa90ee200bacab7025,Saipan,
+6ed4c73b123b4caa90ee200bacab7025,Tinian,
+6ed4c73b123b4caa90ee200bacab7025,Rota,
+6ed4c73b123b4caa90ee200bacab7025,Guam,
+19993a72fcd24723822132cd8dfe4ff6,Pohnpei State,
+19993a72fcd24723822132cd8dfe4ff6,Saipan,
+19993a72fcd24723822132cd8dfe4ff6,Tinian,
+19993a72fcd24723822132cd8dfe4ff6,Rota,
+19993a72fcd24723822132cd8dfe4ff6,Guam,
+0dbfb57d20ef433d938c480edc47770a,Guam,
+2a465d1644e44d2b97d192b30ac184fa,Yap State,
+2a465d1644e44d2b97d192b30ac184fa,Saipan,
+2a465d1644e44d2b97d192b30ac184fa,Tinian,
+2a465d1644e44d2b97d192b30ac184fa,Rota,
+2a465d1644e44d2b97d192b30ac184fa,Guam,
+1d5d00a647bb4de4855d75e35375ccf1,Republic of Palau,
+1d5d00a647bb4de4855d75e35375ccf1,Yap State,
+1d5d00a647bb4de4855d75e35375ccf1,Chuuk State,
+1d5d00a647bb4de4855d75e35375ccf1,Saipan,
+1d5d00a647bb4de4855d75e35375ccf1,Tinian,
+1d5d00a647bb4de4855d75e35375ccf1,Rota,
+1d5d00a647bb4de4855d75e35375ccf1,Guam,
+4b9c9883fb2c469f85c3a11c03562888,Republic of Palau,
+4b9c9883fb2c469f85c3a11c03562888,Pohnpei State,
+4b9c9883fb2c469f85c3a11c03562888,Guam,
+d354b2c452204ee1a9fc3fab810c79da,Republic of Palau,
+d354b2c452204ee1a9fc3fab810c79da,Yap State,
+d354b2c452204ee1a9fc3fab810c79da,Saipan,
+d354b2c452204ee1a9fc3fab810c79da,Tinian,
+d354b2c452204ee1a9fc3fab810c79da,Rota,
+d354b2c452204ee1a9fc3fab810c79da,Guam,
+977d9b1980b249c4a021b877b2a0c965,Republic of Palau,
+977d9b1980b249c4a021b877b2a0c965,Yap State,
+66240662bfea4496b1c52bb524dd05d5,Republic of Palau,
+66240662bfea4496b1c52bb524dd05d5,Pohnpei State,
+66240662bfea4496b1c52bb524dd05d5,Saipan,
+66240662bfea4496b1c52bb524dd05d5,Tinian,
+66240662bfea4496b1c52bb524dd05d5,Rota,
+66240662bfea4496b1c52bb524dd05d5,Guam,
+d50a1033c8c3457da3a31dd7e94a823c,Guam,
+a86d59152212404d8a2d72397f25cf95,Guam,
+10154f80e803421990ef798a0007376e,Guam,
+cb92eeb7ede24cd7a53b438c3d29834e,Guam,
+6857f674ffd044ec99d7003d96cc38c7,Saipan,
+6857f674ffd044ec99d7003d96cc38c7,Tinian,
+6857f674ffd044ec99d7003d96cc38c7,Rota,
+6857f674ffd044ec99d7003d96cc38c7,Guam,
+ab68ce2cbe6344c58b083af33c38c891,Yap State,
+ab68ce2cbe6344c58b083af33c38c891,Saipan,
+ab68ce2cbe6344c58b083af33c38c891,Tinian,
+ab68ce2cbe6344c58b083af33c38c891,Rota,
+ab68ce2cbe6344c58b083af33c38c891,Guam,
+3b15a6328ad64c3f87f0bd6c7009f8d2,Guam,
+b4664142f6c54647bb043104d701cf91,Republic of Palau,
+622d735e88d34634adf753e3bd501d8c,Republic of Palau,
+0a35715070ef40ff9aa4c25f6aa10c53,Chuuk State,
+0a35715070ef40ff9aa4c25f6aa10c53,Pohnpei State,
+d4dfb79f978947fca95dd81f81910be6,Republic of Palau,
+94fa55d5e57c48cf83147eb4942132b0,Saipan,
+94fa55d5e57c48cf83147eb4942132b0,Tinian,
+94fa55d5e57c48cf83147eb4942132b0,Rota,
+94fa55d5e57c48cf83147eb4942132b0,Guam,
+c17c651f25c14882a802eeaa5a49ce34,Saipan,
+c17c651f25c14882a802eeaa5a49ce34,Tinian,
+c17c651f25c14882a802eeaa5a49ce34,Rota,
+c17c651f25c14882a802eeaa5a49ce34,Guam,
+c54141629a5049eda7034c18a7f98f05,Chuuk State,
+c54141629a5049eda7034c18a7f98f05,Pohnpei State,
+c54141629a5049eda7034c18a7f98f05,Kosrae State,
+c54141629a5049eda7034c18a7f98f05,Guam,
+df5fd44c346748dd8645ea8ae2acb5ee,Saipan,
+df5fd44c346748dd8645ea8ae2acb5ee,Tinian,
+df5fd44c346748dd8645ea8ae2acb5ee,Rota,
+df5fd44c346748dd8645ea8ae2acb5ee,Guam,
+41747cf65b28499287475fb6f406ddfc,Pohnpei State,
+87c2b42cc92348ff8b01934faccd4179,Saipan,
+87c2b42cc92348ff8b01934faccd4179,Tinian,
+87c2b42cc92348ff8b01934faccd4179,Rota,
+87c2b42cc92348ff8b01934faccd4179,Guam,
+7862869d897d45abb0b5149be1d96507,Chuuk State,
+dfcf5fc7521d41b98605ffe6bd473e0d,Pohnpei State,
+d20fa90f4cf143919583646e666c9c0b,Republic of Palau,
+1aa743b487664ac6a1529c64a7d7761b,Chuuk State,
+1aa743b487664ac6a1529c64a7d7761b,Saipan,
+1aa743b487664ac6a1529c64a7d7761b,Tinian,
+1aa743b487664ac6a1529c64a7d7761b,Rota,
+1aa743b487664ac6a1529c64a7d7761b,Guam,
+1c31133ac75b4713a656aa2e84f30035,Republic of Palau,
+c7682dd3b16d49b1bc6087545c5000d9,Saipan,
+c7682dd3b16d49b1bc6087545c5000d9,Tinian,
+c7682dd3b16d49b1bc6087545c5000d9,Rota,
+c7682dd3b16d49b1bc6087545c5000d9,Guam,
+45c51a0d3dcc4a40b18ebfed4d15d881,Republic of Palau,
+07233fb45dc94974a2a04af79695a123,Pohnpei State,
+2b3e7a6b72f3475abdd95d80a094cc3e,Saipan,
+2b3e7a6b72f3475abdd95d80a094cc3e,Tinian,
+2b3e7a6b72f3475abdd95d80a094cc3e,Rota,
+2b3e7a6b72f3475abdd95d80a094cc3e,Guam,
+739fdd4b8ea04afeafae0fc3603c23f8,Kosrae State,
+f76df2ee3da34032947394a6f7d4c232,Republic of Palau,
+f76df2ee3da34032947394a6f7d4c232,Yap State,
+f76df2ee3da34032947394a6f7d4c232,Chuuk State,
+f76df2ee3da34032947394a6f7d4c232,Pohnpei State,
+f76df2ee3da34032947394a6f7d4c232,Saipan,
+f76df2ee3da34032947394a6f7d4c232,Tinian,
+f76df2ee3da34032947394a6f7d4c232,Rota,
+f76df2ee3da34032947394a6f7d4c232,Guam,
+1dce40d66eb64ea4aa5f9692669efb5d,Republic of Palau,
+1dce40d66eb64ea4aa5f9692669efb5d,Yap State,
+1dce40d66eb64ea4aa5f9692669efb5d,Chuuk State,
+1dce40d66eb64ea4aa5f9692669efb5d,Pohnpei State,
+1dce40d66eb64ea4aa5f9692669efb5d,Kosrae State,
+1dce40d66eb64ea4aa5f9692669efb5d,Guam,
+dec9625df6c84029b27c5586bfa67f48,Republic of Palau,
+dec9625df6c84029b27c5586bfa67f48,Yap State,
+dec9625df6c84029b27c5586bfa67f48,Chuuk State,
+dec9625df6c84029b27c5586bfa67f48,Kosrae State,
+dec9625df6c84029b27c5586bfa67f48,Saipan,
+dec9625df6c84029b27c5586bfa67f48,Tinian,
+dec9625df6c84029b27c5586bfa67f48,Rota,
+dec9625df6c84029b27c5586bfa67f48,Guam,
+157976c2df464b74ba1099cd56055646,Guam,
+c7ad1c916c7141418cce4540e6fc0228,Republic of Palau,
+c7ad1c916c7141418cce4540e6fc0228,Guam,
+750fb9fbe9944cfab5be0426031ff5ca,Republic of Palau,
+27a172f8910044c7adec7043f6344d3a,Guam,
+49a2315fbfb74a929929da1ac6c49cab,Republic of Palau,
+49a2315fbfb74a929929da1ac6c49cab,Saipan,
+49a2315fbfb74a929929da1ac6c49cab,Tinian,
+49a2315fbfb74a929929da1ac6c49cab,Rota,
+49a2315fbfb74a929929da1ac6c49cab,Guam,
+a7eb60a54fb04128a6a8989041a88862,Republic of Palau,
+97cd7457d2ba46aca91aa2a4faba634e,Republic of Palau,
+97cd7457d2ba46aca91aa2a4faba634e,Yap State,
+97cd7457d2ba46aca91aa2a4faba634e,Saipan,
+97cd7457d2ba46aca91aa2a4faba634e,Tinian,
+97cd7457d2ba46aca91aa2a4faba634e,Rota,
+97cd7457d2ba46aca91aa2a4faba634e,Guam,
+95499ae30613422ca5ab1dc739d627d2,Saipan,
+95499ae30613422ca5ab1dc739d627d2,Tinian,
+95499ae30613422ca5ab1dc739d627d2,Rota,
+95499ae30613422ca5ab1dc739d627d2,Guam,
+60a82ebf57fd410ea2e336025cacb374,Republic of Palau,
+60a82ebf57fd410ea2e336025cacb374,Yap State,
+1c0a64a5a3974bcea14647ae1ca82ed7,Yap State,
+7009b818af5046bd86778877bfd2f264,Republic of Palau,
+7009b818af5046bd86778877bfd2f264,Yap State,
+7009b818af5046bd86778877bfd2f264,Chuuk State,
+7009b818af5046bd86778877bfd2f264,Saipan,
+7009b818af5046bd86778877bfd2f264,Tinian,
+7009b818af5046bd86778877bfd2f264,Rota,
+7009b818af5046bd86778877bfd2f264,Guam,
+4764e8bc706a478fbeddabfdff29b9df,Chuuk State,
+da8b54b6025041aebdc095ebadad7ff6,Saipan,
+da8b54b6025041aebdc095ebadad7ff6,Tinian,
+da8b54b6025041aebdc095ebadad7ff6,Rota,
+da8b54b6025041aebdc095ebadad7ff6,Guam,
+7b54a50ffd2b43829e1ffefe706a2584,Republic of Palau,
+7b54a50ffd2b43829e1ffefe706a2584,Yap State,
+7b54a50ffd2b43829e1ffefe706a2584,Chuuk State,
+7b54a50ffd2b43829e1ffefe706a2584,Pohnpei State,
+7b54a50ffd2b43829e1ffefe706a2584,Saipan,
+7b54a50ffd2b43829e1ffefe706a2584,Tinian,
+7b54a50ffd2b43829e1ffefe706a2584,Rota,
+7b54a50ffd2b43829e1ffefe706a2584,Guam,
+0444e0dc9add4c26bd1d738dc9262d20,Republic of Palau,
+658efe160c6049dc8faf9a90a729e760,Republic of Palau,
+658efe160c6049dc8faf9a90a729e760,Yap State,
+658efe160c6049dc8faf9a90a729e760,Chuuk State,
+658efe160c6049dc8faf9a90a729e760,Saipan,
+658efe160c6049dc8faf9a90a729e760,Tinian,
+658efe160c6049dc8faf9a90a729e760,Rota,
+658efe160c6049dc8faf9a90a729e760,Guam,
+df29f546323f436f904540c8b83e3fd0,Guam,
+9200b52017ca4d5d913740eeacea7ba7,Republic of Palau,
+9200b52017ca4d5d913740eeacea7ba7,Yap State,new island record
+9200b52017ca4d5d913740eeacea7ba7,Chuuk State,
+9200b52017ca4d5d913740eeacea7ba7,Pohnpei State,new island record
+9200b52017ca4d5d913740eeacea7ba7,Saipan,
+9200b52017ca4d5d913740eeacea7ba7,Tinian,
+9200b52017ca4d5d913740eeacea7ba7,Rota,
+9200b52017ca4d5d913740eeacea7ba7,Guam,
+c7504dd2a8f74f789ae1009ac8decd00,Saipan,
+c7504dd2a8f74f789ae1009ac8decd00,Tinian,
+c7504dd2a8f74f789ae1009ac8decd00,Rota,
+c7504dd2a8f74f789ae1009ac8decd00,Guam,
+9a7ab749bb804ce7ac4752bab05ce510,Guam,
+afdcea55b276410298e9aa0e1c3582da,Republic of Palau,
+343868eb91af449c8485c630e397b986,Republic of Palau,
+343868eb91af449c8485c630e397b986,Chuuk State,
+343868eb91af449c8485c630e397b986,Pohnpei State,
+a635c7e7a86b4d70886068874f2639ac,Republic of Palau,
+a635c7e7a86b4d70886068874f2639ac,Yap State,
+a635c7e7a86b4d70886068874f2639ac,Chuuk State,
+a635c7e7a86b4d70886068874f2639ac,Pohnpei State,
+a635c7e7a86b4d70886068874f2639ac,Kosrae State,
+a635c7e7a86b4d70886068874f2639ac,Saipan,
+a635c7e7a86b4d70886068874f2639ac,Tinian,
+a635c7e7a86b4d70886068874f2639ac,Rota,
+a635c7e7a86b4d70886068874f2639ac,Guam,
+bcfdd0adbe7344c09cd273cbee9f2362,Guam,
+9ff4ceefd18c4952a8c1e4748485d90e,Guam,
+fbbcc90fff7a428cb72b08117a10e2a1,Pohnpei State,
+e0e95cca067841feb6c34cbc827bb176,Republic of Palau,
+e0e95cca067841feb6c34cbc827bb176,Yap State,
+e0e95cca067841feb6c34cbc827bb176,Chuuk State,
+e0e95cca067841feb6c34cbc827bb176,Pohnpei State,
+e0e95cca067841feb6c34cbc827bb176,Kosrae State,
+e0e95cca067841feb6c34cbc827bb176,Saipan,
+e0e95cca067841feb6c34cbc827bb176,Tinian,
+e0e95cca067841feb6c34cbc827bb176,Rota,
+e0e95cca067841feb6c34cbc827bb176,Guam,
+3d6cced3408d408aa0b56b6b5e63f617,Republic of Palau,
+3d6cced3408d408aa0b56b6b5e63f617,Saipan,
+3d6cced3408d408aa0b56b6b5e63f617,Tinian,
+3d6cced3408d408aa0b56b6b5e63f617,Rota,
+3d6cced3408d408aa0b56b6b5e63f617,Guam,
+14432a8b99454177b8561ba640aae578,Republic of Palau,
+14432a8b99454177b8561ba640aae578,Yap State,
+14432a8b99454177b8561ba640aae578,Saipan,
+14432a8b99454177b8561ba640aae578,Tinian,
+14432a8b99454177b8561ba640aae578,Rota,
+14432a8b99454177b8561ba640aae578,Guam,
+d5805140aa11481a9079a6c382663f94,Republic of Palau,
+d5805140aa11481a9079a6c382663f94,Yap State,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Republic of Palau,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Chuuk State,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Pohnpei State,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Saipan,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Tinian,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Rota,
+85086eeeac3a43a3b9a97a7ff2d50bcf,Guam,
+545790842048408bb4201caaf12e54ce,Republic of Palau,
+545790842048408bb4201caaf12e54ce,Yap State,
+545790842048408bb4201caaf12e54ce,Saipan,
+545790842048408bb4201caaf12e54ce,Tinian,
+545790842048408bb4201caaf12e54ce,Rota,
+545790842048408bb4201caaf12e54ce,Guam,
+116b296a0134473dbb43ed07f809330a,Saipan,
+116b296a0134473dbb43ed07f809330a,Tinian,
+116b296a0134473dbb43ed07f809330a,Rota,
+116b296a0134473dbb43ed07f809330a,Guam,
+d4730a22d40a46f299c8ff1df4505f3c,Republic of Palau,
+d4730a22d40a46f299c8ff1df4505f3c,Yap State,
+d4730a22d40a46f299c8ff1df4505f3c,Pohnpei State,
+d4730a22d40a46f299c8ff1df4505f3c,Saipan,
+d4730a22d40a46f299c8ff1df4505f3c,Tinian,
+d4730a22d40a46f299c8ff1df4505f3c,Rota,
+d4730a22d40a46f299c8ff1df4505f3c,Guam,
+14c9c8febc92492eb371bfc56491e33b,Republic of Palau,new island record
+14c9c8febc92492eb371bfc56491e33b,Saipan,
+14c9c8febc92492eb371bfc56491e33b,Tinian,
+14c9c8febc92492eb371bfc56491e33b,Rota,
+14c9c8febc92492eb371bfc56491e33b,Guam,
+d306d95564c148a6ac36c0b50eb41b75,Guam,
+338d8f3eb2404e4390c745a62c6cfbab,Guam,
+22cd5092082b4ba99c8fc7baf1edc54c,Republic of Palau,
+22cd5092082b4ba99c8fc7baf1edc54c,Yap State,
+22cd5092082b4ba99c8fc7baf1edc54c,Chuuk State,
