@@ -1,0 +1,72 @@
+{
+  "parameters": {
+    "preferred_data_sources": [
+      11
+    ],
+    "with_vernaculars": false,
+    "header_only": false,
+    "data_sources": [],
+    "with_context": true,
+    "resolve_once": false,
+    "with_canonical_ranks": false,
+    "best_match_only": true
+  },
+  "url": "http://resolver.globalnames.org/name_resolvers/xfcozn6uwl5m.json",
+  "id": "xfcozn6uwl5m",
+  "message": "Success",
+  "context": [
+    {
+      "context_clade": null,
+      "context_data_source_id": "1"
+    }
+  ],
+  "data_sources": [],
+  "status": "success",
+  "data": [
+    {
+      "preferred_results": [
+        {
+          "prescore": "1|0|0",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "taxon_id": "2007771",
+          "match_value": "Could only match genus",
+          "edit_distance": 0,
+          "data_source_id": 11,
+          "name_string": "Nysius Dallas, 1852",
+          "data_source_title": "GBIF Backbone Taxonomy",
+          "gni_uuid": "7fee39aa-66d1-5ed2-b6fa-da6925f47489",
+          "imported_at": "2016-11-13T20:08:24Z",
+          "canonical_form": "Nysius",
+          "match_type": 6,
+          "classification_path": "Animalia|Arthropoda|Insecta|Hemiptera|Lygaeidae|Nysius",
+          "score": 0.75,
+          "classification_path_ids": "1|54|216|809|7888|2007771"
+        }
+      ],
+      "supplied_name_string": "Nysius pulchellus",
+      "in_curated_sources": true,
+      "is_known_name": false,
+      "data_sources_number": 17,
+      "results": [
+        {
+          "prescore": "1|0|0",
+          "classification_path_ranks": "kingdom|phylum|class|order|superfamily|family|genus",
+          "taxon_id": "26960495",
+          "match_value": "Could only match genus",
+          "edit_distance": 0,
+          "data_source_id": 1,
+          "name_string": "Nysius",
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "272e745d-b127-52f1-972f-b375083bd20a",
+          "imported_at": "2016-10-19T22:51:36Z",
+          "canonical_form": "Nysius",
+          "match_type": 6,
+          "classification_path": "Animalia|Arthropoda|Insecta|Hemiptera|Lygaeoidea|Lygaeidae|Nysius",
+          "score": 0.75,
+          "classification_path_ids": "26922039|26922052|26922219|26922332|26925333|26925367|26960495"
+        }
+      ],
+      "supplied_id": "Asterolecanium coronatum"
+    }
+  ]
+}

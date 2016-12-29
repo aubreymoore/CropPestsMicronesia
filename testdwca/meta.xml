@@ -2,7 +2,7 @@
 <archive xmlns="http://rs.tdwg.org/dwc/text/">
 	<core encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="," fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
 		<files>
-			<location>taxon.csv</location>
+			<location>dwcaTaxon.csv</location>
 		</files>
 		<id index="0"/>
 		<field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
@@ -12,7 +12,7 @@
 	</core>
 	<extension encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="," fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
 		<files>
-			<location>distribution.csv</location>
+			<location>dwcaDistribution.csv</location>
 		</files>
 		<coreid index="0"/>
 		<field index="1" term="http://rs.tdwg.org/dwc/terms/locality"/>
@@ -20,14 +20,14 @@
 	</extension>
 	<extension encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="," fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/VernacularName">
 		<files>
-			<location>vernacular.csv</location>
+			<location>dwcaVernacular.csv</location>
 		</files>
 		<coreid index="0"/>
 		<field index="1" term="http://rs.tdwg.org/dwc/terms/vernacularName"/>
 	</extension>
 	<extension encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="," fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/ResourceRelationship">
 		<files>
-			<location>associates.csv</location>
+			<location>dwcaResourceRelationship.csv</location>
 		</files>
 		<coreid index="0"/>
 		<field index="1" term="http://rs.tdwg.org/dwc/terms/relationshipOfResource"/>
